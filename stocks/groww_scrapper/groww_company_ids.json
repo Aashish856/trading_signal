@@ -1,0 +1,2422 @@
+[
+  {
+    "searchId": "reliance-industries-ltd",
+    "growwCompanyId": "GSTK500325",
+    "nseScriptCode": "RELIANCE",
+    "bseScriptCode": "500325",
+    "nseTradingSymbol": "RELIANCE-EQ",
+    "bseTradingSymbol": "RELIANCE"
+  },
+  {
+    "searchId": "hdfc-bank-ltd",
+    "growwCompanyId": "GSTK500180",
+    "nseScriptCode": "HDFCBANK",
+    "bseScriptCode": "500180",
+    "nseTradingSymbol": "HDFCBANK-EQ",
+    "bseTradingSymbol": "HDFCBANK"
+  },
+  {
+    "searchId": "bharti-airtel-ltd",
+    "growwCompanyId": "GSTK532454",
+    "nseScriptCode": "BHARTIARTL",
+    "bseScriptCode": "532454",
+    "nseTradingSymbol": "BHARTIARTL-EQ",
+    "bseTradingSymbol": "BHARTIARTL"
+  },
+  {
+    "searchId": "tata-consultancy-services-ltd",
+    "growwCompanyId": "GSTK532540",
+    "nseScriptCode": "TCS",
+    "bseScriptCode": "532540",
+    "nseTradingSymbol": "TCS-EQ",
+    "bseTradingSymbol": "TCS"
+  },
+  {
+    "searchId": "icici-bank-ltd",
+    "growwCompanyId": "GSTK532174",
+    "nseScriptCode": "ICICIBANK",
+    "bseScriptCode": "532174",
+    "nseTradingSymbol": "ICICIBANK-EQ",
+    "bseTradingSymbol": "ICICIBANK"
+  },
+  {
+    "searchId": "state-bank-of-india",
+    "growwCompanyId": "GSTK500112",
+    "nseScriptCode": "SBIN",
+    "bseScriptCode": "500112",
+    "nseTradingSymbol": "SBIN-EQ",
+    "bseTradingSymbol": "SBIN"
+  },
+  {
+    "searchId": "infosys-ltd",
+    "growwCompanyId": "GSTK500209",
+    "nseScriptCode": "INFY",
+    "bseScriptCode": "500209",
+    "nseTradingSymbol": "INFY-EQ",
+    "bseTradingSymbol": "INFY"
+  },
+  {
+    "searchId": "bajaj-finance-ltd",
+    "growwCompanyId": "GSTK500034",
+    "nseScriptCode": "BAJFINANCE",
+    "bseScriptCode": "500034",
+    "nseTradingSymbol": "BAJFINANCE-EQ",
+    "bseTradingSymbol": "BAJFINANCE"
+  },
+  {
+    "searchId": "life-insurance-corporation-of-india",
+    "growwCompanyId": "GSTK543526",
+    "nseScriptCode": "LICI",
+    "bseScriptCode": "543526",
+    "nseTradingSymbol": "LICI-EQ",
+    "bseTradingSymbol": "LICI"
+  },
+  {
+    "searchId": "hindustan-unilever-ltd",
+    "growwCompanyId": "GSTK500696",
+    "nseScriptCode": "HINDUNILVR",
+    "bseScriptCode": "500696",
+    "nseTradingSymbol": "HINDUNILVR-EQ",
+    "bseTradingSymbol": "HINDUNILVR"
+  },
+  {
+    "searchId": "itc-ltd",
+    "growwCompanyId": "GSTK500875",
+    "nseScriptCode": "ITC",
+    "bseScriptCode": "500875",
+    "nseTradingSymbol": "ITC-EQ",
+    "bseTradingSymbol": "ITC"
+  },
+  {
+    "searchId": "larsen-toubro-ltd",
+    "growwCompanyId": "GSTK500510",
+    "nseScriptCode": "LT",
+    "bseScriptCode": "500510",
+    "nseTradingSymbol": "LT-EQ",
+    "bseTradingSymbol": "LT"
+  },
+  {
+    "searchId": "kotak-mahindra-bank-ltd",
+    "growwCompanyId": "GSTK500247",
+    "nseScriptCode": "KOTAKBANK",
+    "bseScriptCode": "500247",
+    "nseTradingSymbol": "KOTAKBANK-EQ",
+    "bseTradingSymbol": "KOTAKBANK"
+  },
+  {
+    "searchId": "hcl-technologies-ltd",
+    "growwCompanyId": "GSTK532281",
+    "nseScriptCode": "HCLTECH",
+    "bseScriptCode": "532281",
+    "nseTradingSymbol": "HCLTECH-EQ",
+    "bseTradingSymbol": "HCLTECH"
+  },
+  {
+    "searchId": "sun-pharmaceutical-industries-ltd",
+    "growwCompanyId": "GSTK524715",
+    "nseScriptCode": "SUNPHARMA",
+    "bseScriptCode": "524715",
+    "nseTradingSymbol": "SUNPHARMA-EQ",
+    "bseTradingSymbol": "SUNPHARMA"
+  },
+  {
+    "searchId": "mahindra-mahindra-ltd",
+    "growwCompanyId": "GSTK500520",
+    "nseScriptCode": "M&M",
+    "bseScriptCode": "500520",
+    "nseTradingSymbol": "M&M-EQ",
+    "bseTradingSymbol": "M&M"
+  },
+  {
+    "searchId": "maruti-suzuki-india-ltd",
+    "growwCompanyId": "GSTK532500",
+    "nseScriptCode": "MARUTI",
+    "bseScriptCode": "532500",
+    "nseTradingSymbol": "MARUTI-EQ",
+    "bseTradingSymbol": "MARUTI"
+  },
+  {
+    "searchId": "ultratech-cement-ltd",
+    "growwCompanyId": "GSTK532538",
+    "nseScriptCode": "ULTRACEMCO",
+    "bseScriptCode": "532538",
+    "nseTradingSymbol": "ULTRACEMCO-EQ",
+    "bseTradingSymbol": "ULTRACEMCO"
+  },
+  {
+    "searchId": "axis-bank-ltd",
+    "growwCompanyId": "GSTK532215",
+    "nseScriptCode": "AXISBANK",
+    "bseScriptCode": "532215",
+    "nseTradingSymbol": "AXISBANK-EQ",
+    "bseTradingSymbol": "AXISBANK"
+  },
+  {
+    "searchId": "ntpc-ltd",
+    "growwCompanyId": "GSTK532555",
+    "nseScriptCode": "NTPC",
+    "bseScriptCode": "532555",
+    "nseTradingSymbol": "NTPC-EQ",
+    "bseTradingSymbol": "NTPC"
+  },
+  {
+    "searchId": "bajaj-finserv-ltd",
+    "growwCompanyId": "GSTK532978",
+    "nseScriptCode": "BAJAJFINSV",
+    "bseScriptCode": "532978",
+    "nseTradingSymbol": "BAJAJFINSV-EQ",
+    "bseTradingSymbol": "BAJAJFINSV"
+  },
+  {
+    "searchId": "hindustan-aeronautics-ltd",
+    "growwCompanyId": "GSTK541154",
+    "nseScriptCode": "HAL",
+    "bseScriptCode": "541154",
+    "nseTradingSymbol": "HAL-EQ",
+    "bseTradingSymbol": "HAL"
+  },
+  {
+    "searchId": "titan-company-ltd",
+    "growwCompanyId": "GSTK500114",
+    "nseScriptCode": "TITAN",
+    "bseScriptCode": "500114",
+    "nseTradingSymbol": "TITAN-EQ",
+    "bseTradingSymbol": "TITAN"
+  },
+  {
+    "searchId": "oil-natural-gas-corporation-ltd",
+    "growwCompanyId": "GSTK500312",
+    "nseScriptCode": "ONGC",
+    "bseScriptCode": "500312",
+    "nseTradingSymbol": "ONGC-EQ",
+    "bseTradingSymbol": "ONGC"
+  },
+  {
+    "searchId": "adani-ports-and-special-economic-zone-ltd",
+    "growwCompanyId": "GSTK532921",
+    "nseScriptCode": "ADANIPORTS",
+    "bseScriptCode": "532921",
+    "nseTradingSymbol": "ADANIPORTS-EQ",
+    "bseTradingSymbol": "ADANIPORTS"
+  },
+  {
+    "searchId": "zomato-ltd",
+    "growwCompanyId": "GSTK543320",
+    "nseScriptCode": "ETERNAL",
+    "bseScriptCode": "543320",
+    "nseTradingSymbol": "ETERNAL-EQ",
+    "bseTradingSymbol": "ETERNAL"
+  },
+  {
+    "searchId": "adani-enterprises-ltd",
+    "growwCompanyId": "GSTK512599",
+    "nseScriptCode": "ADANIENT",
+    "bseScriptCode": "512599",
+    "nseTradingSymbol": "ADANIENT-EQ",
+    "bseTradingSymbol": "ADANIENT"
+  },
+  {
+    "searchId": "bharat-electronics-ltd",
+    "growwCompanyId": "GSTK500049",
+    "nseScriptCode": "BEL",
+    "bseScriptCode": "500049",
+    "nseTradingSymbol": "BEL-EQ",
+    "bseTradingSymbol": "BEL"
+  },
+  {
+    "searchId": "power-grid-corporation-of-india-ltd",
+    "growwCompanyId": "GSTK532898",
+    "nseScriptCode": "POWERGRID",
+    "bseScriptCode": "532898",
+    "nseTradingSymbol": "POWERGRID-EQ",
+    "bseTradingSymbol": "POWERGRID"
+  },
+  {
+    "searchId": "wipro-ltd",
+    "growwCompanyId": "GSTK507685",
+    "nseScriptCode": "WIPRO",
+    "bseScriptCode": "507685",
+    "nseTradingSymbol": "WIPRO-EQ",
+    "bseTradingSymbol": "WIPRO"
+  },
+  {
+    "searchId": "avenue-supermarts-ltd",
+    "growwCompanyId": "GSTK540376",
+    "nseScriptCode": "DMART",
+    "bseScriptCode": "540376",
+    "nseTradingSymbol": "DMART-EQ",
+    "bseTradingSymbol": "DMART"
+  },
+  {
+    "searchId": "tata-motors-ltd",
+    "growwCompanyId": "GSTK500570",
+    "nseScriptCode": "TATAMOTORS",
+    "bseScriptCode": "500570",
+    "nseTradingSymbol": "TATAMOTORS-EQ",
+    "bseTradingSymbol": "TATAMOTORS"
+  },
+  {
+    "searchId": "jsw-steel-ltd",
+    "growwCompanyId": "GSTK500228",
+    "nseScriptCode": "JSWSTEEL",
+    "bseScriptCode": "500228",
+    "nseTradingSymbol": "JSWSTEEL-EQ",
+    "bseTradingSymbol": "JSWSTEEL"
+  },
+  {
+    "searchId": "coal-india-ltd",
+    "growwCompanyId": "GSTK533278",
+    "nseScriptCode": "COALINDIA",
+    "bseScriptCode": "533278",
+    "nseTradingSymbol": "COALINDIA-EQ",
+    "bseTradingSymbol": "COALINDIA"
+  },
+  {
+    "searchId": "bajaj-auto-ltd",
+    "growwCompanyId": "GSTK532977",
+    "nseScriptCode": "BAJAJ-AUTO",
+    "bseScriptCode": "532977",
+    "nseTradingSymbol": "BAJAJ-AUTO-EQ",
+    "bseTradingSymbol": "BAJAJ-AUTO"
+  },
+  {
+    "searchId": "interglobe-aviation-ltd",
+    "growwCompanyId": "GSTK539448",
+    "nseScriptCode": "INDIGO",
+    "bseScriptCode": "539448",
+    "nseTradingSymbol": "INDIGO-EQ",
+    "bseTradingSymbol": "INDIGO"
+  },
+  {
+    "searchId": "adani-power-ltd",
+    "growwCompanyId": "GSTK533096",
+    "nseScriptCode": "ADANIPOWER",
+    "bseScriptCode": "533096",
+    "nseTradingSymbol": "ADANIPOWER-EQ",
+    "bseTradingSymbol": "ADANIPOWER"
+  },
+  {
+    "searchId": "asian-paints-ltd",
+    "growwCompanyId": "GSTK500820",
+    "nseScriptCode": "ASIANPAINT",
+    "bseScriptCode": "500820",
+    "nseTradingSymbol": "ASIANPAINT-EQ",
+    "bseTradingSymbol": "ASIANPAINT"
+  },
+  {
+    "searchId": "nestle-india-ltd",
+    "growwCompanyId": "GSTK500790",
+    "nseScriptCode": "NESTLEIND",
+    "bseScriptCode": "500790",
+    "nseTradingSymbol": "NESTLEIND-EQ",
+    "bseTradingSymbol": "NESTLEIND"
+  },
+  {
+    "searchId": "indian-oil-corporation-ltd",
+    "growwCompanyId": "GSTK530965",
+    "nseScriptCode": "IOC",
+    "bseScriptCode": "530965",
+    "nseTradingSymbol": "IOC-EQ",
+    "bseTradingSymbol": "IOC"
+  },
+  {
+    "searchId": "dlf-ltd",
+    "growwCompanyId": "GSTK532868",
+    "nseScriptCode": "DLF",
+    "bseScriptCode": "532868",
+    "nseTradingSymbol": "DLF-EQ",
+    "bseTradingSymbol": "DLF"
+  },
+  {
+    "searchId": "tata-steel-ltd",
+    "growwCompanyId": "GSTK500470",
+    "nseScriptCode": "TATASTEEL",
+    "bseScriptCode": "500470",
+    "nseTradingSymbol": "TATASTEEL-EQ",
+    "bseTradingSymbol": "TATASTEEL"
+  },
+  {
+    "searchId": "jio-financial-services-ltd",
+    "growwCompanyId": "GSTK543940",
+    "nseScriptCode": "JIOFIN",
+    "bseScriptCode": "543940",
+    "nseTradingSymbol": "JIOFIN-EQ",
+    "bseTradingSymbol": "JIOFIN"
+  },
+  {
+    "searchId": "hindustan-zinc-ltd",
+    "growwCompanyId": "GSTK500188",
+    "nseScriptCode": "HINDZINC",
+    "bseScriptCode": "500188",
+    "nseTradingSymbol": "HINDZINC-EQ",
+    "bseTradingSymbol": "HINDZINC"
+  },
+  {
+    "searchId": "grasim-industries-ltd",
+    "growwCompanyId": "GSTK500300",
+    "nseScriptCode": "GRASIM",
+    "bseScriptCode": "500300",
+    "nseTradingSymbol": "GRASIM-EQ",
+    "bseTradingSymbol": "GRASIM"
+  },
+  {
+    "searchId": "trent-ltd",
+    "growwCompanyId": "GSTK500251",
+    "nseScriptCode": "TRENT",
+    "bseScriptCode": "500251",
+    "nseTradingSymbol": "TRENT-EQ",
+    "bseTradingSymbol": "TRENT"
+  },
+  {
+    "searchId": "sbi-life-insurance-company-ltd",
+    "growwCompanyId": "GSTK540719",
+    "nseScriptCode": "SBILIFE",
+    "bseScriptCode": "540719",
+    "nseTradingSymbol": "SBILIFE-EQ",
+    "bseTradingSymbol": "SBILIFE"
+  },
+  {
+    "searchId": "indian-railway-finance-corporation-ltd",
+    "growwCompanyId": "GSTK543257",
+    "nseScriptCode": "IRFC",
+    "bseScriptCode": "543257",
+    "nseTradingSymbol": "IRFC-EQ",
+    "bseTradingSymbol": "IRFC"
+  },
+  {
+    "searchId": "vedanta-ltd",
+    "growwCompanyId": "GSTK500295",
+    "nseScriptCode": "VEDL",
+    "bseScriptCode": "500295",
+    "nseTradingSymbol": "VEDL-EQ",
+    "bseTradingSymbol": "VEDL"
+  },
+  {
+    "searchId": "divis-laboratories-ltd",
+    "growwCompanyId": "GSTK532488",
+    "nseScriptCode": "DIVISLAB",
+    "bseScriptCode": "532488",
+    "nseTradingSymbol": "DIVISLAB-EQ",
+    "bseTradingSymbol": "DIVISLAB"
+  },
+  {
+    "searchId": "hyundai-motor-india-ltd",
+    "growwCompanyId": "GSTK544274",
+    "nseScriptCode": "HYUNDAI",
+    "bseScriptCode": "544274",
+    "nseTradingSymbol": "HYUNDAI-EQ",
+    "bseTradingSymbol": "HYUNDAI"
+  },
+  {
+    "searchId": "adani-green-energy-ltd",
+    "growwCompanyId": "GSTK541450",
+    "nseScriptCode": "ADANIGREEN",
+    "bseScriptCode": "541450",
+    "nseTradingSymbol": "ADANIGREEN-EQ",
+    "bseTradingSymbol": "ADANIGREEN"
+  },
+  {
+    "searchId": "varun-beverages-ltd",
+    "growwCompanyId": "GSTK540180",
+    "nseScriptCode": "VBL",
+    "bseScriptCode": "540180",
+    "nseTradingSymbol": "VBL-EQ",
+    "bseTradingSymbol": "VBL"
+  },
+  {
+    "searchId": "hdfc-standard-life-insurance-co-ltd",
+    "growwCompanyId": "GSTK540777",
+    "nseScriptCode": "HDFCLIFE",
+    "bseScriptCode": "540777",
+    "nseTradingSymbol": "HDFCLIFE-EQ",
+    "bseTradingSymbol": "HDFCLIFE"
+  },
+  {
+    "searchId": "bajaj-holdings-investment-ltd",
+    "growwCompanyId": "GSTK500490",
+    "nseScriptCode": "BAJAJHLDNG",
+    "bseScriptCode": "500490",
+    "nseTradingSymbol": "BAJAJHLDNG-EQ",
+    "bseTradingSymbol": "BAJAJHLDNG"
+  },
+  {
+    "searchId": "hindalco-industries-ltd",
+    "growwCompanyId": "GSTK500440",
+    "nseScriptCode": "HINDALCO",
+    "bseScriptCode": "500440",
+    "nseTradingSymbol": "HINDALCO-EQ",
+    "bseTradingSymbol": "HINDALCO"
+  },
+  {
+    "searchId": "larsen-toubro-infotech-ltd",
+    "growwCompanyId": "GSTK540005",
+    "nseScriptCode": "LTIM",
+    "bseScriptCode": "540005",
+    "nseTradingSymbol": "LTIM-EQ",
+    "bseTradingSymbol": "LTIM"
+  },
+  {
+    "searchId": "ambuja-cements-ltd",
+    "growwCompanyId": "GSTK500425",
+    "nseScriptCode": "AMBUJACEM",
+    "bseScriptCode": "500425",
+    "nseTradingSymbol": "AMBUJACEM-EQ",
+    "bseTradingSymbol": "AMBUJACEM"
+  },
+  {
+    "searchId": "eicher-motors-ltd",
+    "growwCompanyId": "GSTK505200",
+    "nseScriptCode": "EICHERMOT",
+    "bseScriptCode": "505200",
+    "nseTradingSymbol": "EICHERMOT-EQ",
+    "bseTradingSymbol": "EICHERMOT"
+  },
+  {
+    "searchId": "bharat-petroleum-corporation-ltd",
+    "growwCompanyId": "GSTK500547",
+    "nseScriptCode": "BPCL",
+    "bseScriptCode": "500547",
+    "nseTradingSymbol": "BPCL-EQ",
+    "bseTradingSymbol": "BPCL"
+  },
+  {
+    "searchId": "pidilite-industries-ltd",
+    "growwCompanyId": "GSTK500331",
+    "nseScriptCode": "PIDILITIND",
+    "bseScriptCode": "500331",
+    "nseTradingSymbol": "PIDILITIND-EQ",
+    "bseTradingSymbol": "PIDILITIND"
+  },
+  {
+    "searchId": "tech-mahindra-ltd",
+    "growwCompanyId": "GSTK532755",
+    "nseScriptCode": "TECHM",
+    "bseScriptCode": "532755",
+    "nseTradingSymbol": "TECHM-EQ",
+    "bseTradingSymbol": "TECHM"
+  },
+  {
+    "searchId": "power-finance-corporation-ltd",
+    "growwCompanyId": "GSTK532810",
+    "nseScriptCode": "PFC",
+    "bseScriptCode": "532810",
+    "nseTradingSymbol": "PFC-EQ",
+    "bseTradingSymbol": "PFC"
+  },
+  {
+    "searchId": "britannia-industries-ltd",
+    "growwCompanyId": "GSTK500825",
+    "nseScriptCode": "BRITANNIA",
+    "bseScriptCode": "500825",
+    "nseTradingSymbol": "BRITANNIA-EQ",
+    "bseTradingSymbol": "BRITANNIA"
+  },
+  {
+    "searchId": "solar-industries-india-ltd",
+    "growwCompanyId": "GSTK532725",
+    "nseScriptCode": "SOLARINDS",
+    "bseScriptCode": "532725",
+    "nseTradingSymbol": "SOLARINDS-EQ",
+    "bseTradingSymbol": "SOLARINDS"
+  },
+  {
+    "searchId": "tvs-motor-company-ltd",
+    "growwCompanyId": "GSTK532343",
+    "nseScriptCode": "TVSMOTOR",
+    "bseScriptCode": "532343",
+    "nseTradingSymbol": "TVSMOTOR-EQ",
+    "bseTradingSymbol": "TVSMOTOR"
+  },
+  {
+    "searchId": "lodha-developers-ltd",
+    "growwCompanyId": "GSTK543287",
+    "nseScriptCode": "LODHA",
+    "bseScriptCode": "543287",
+    "nseTradingSymbol": "LODHA-EQ",
+    "bseTradingSymbol": "LODHA"
+  },
+  {
+    "searchId": "cholamandalam-investment-finance-company-ltd",
+    "growwCompanyId": "GSTK511243",
+    "nseScriptCode": "CHOLAFIN",
+    "bseScriptCode": "511243",
+    "nseTradingSymbol": "CHOLAFIN-EQ",
+    "bseTradingSymbol": "CHOLAFIN"
+  },
+  {
+    "searchId": "tata-power-company-ltd",
+    "growwCompanyId": "GSTK500400",
+    "nseScriptCode": "TATAPOWER",
+    "bseScriptCode": "500400",
+    "nseTradingSymbol": "TATAPOWER-EQ",
+    "bseTradingSymbol": "TATAPOWER"
+  },
+  {
+    "searchId": "bank-of-baroda",
+    "growwCompanyId": "GSTK532134",
+    "nseScriptCode": "BANKBARODA",
+    "bseScriptCode": "532134",
+    "nseTradingSymbol": "BANKBARODA-EQ",
+    "bseTradingSymbol": "BANKBARODA"
+  },
+  {
+    "searchId": "punjab-national-bank",
+    "growwCompanyId": "GSTK532461",
+    "nseScriptCode": "PNB",
+    "bseScriptCode": "532461",
+    "nseTradingSymbol": "PNB-EQ",
+    "bseTradingSymbol": "PNB"
+  },
+  {
+    "searchId": "godrej-consumer-products-ltd",
+    "growwCompanyId": "GSTK532424",
+    "nseScriptCode": "GODREJCP",
+    "bseScriptCode": "532424",
+    "nseTradingSymbol": "GODREJCP-EQ",
+    "bseTradingSymbol": "GODREJCP"
+  },
+  {
+    "searchId": "gail-india-ltd",
+    "growwCompanyId": "GSTK532155",
+    "nseScriptCode": "GAIL",
+    "bseScriptCode": "532155",
+    "nseTradingSymbol": "GAIL-EQ",
+    "bseTradingSymbol": "GAIL"
+  },
+  {
+    "searchId": "max-healthcare-institute-ltd",
+    "growwCompanyId": "GSTK543220",
+    "nseScriptCode": "MAXHEALTH",
+    "bseScriptCode": "543220",
+    "nseTradingSymbol": "MAXHEALTH-EQ",
+    "bseTradingSymbol": "MAXHEALTH"
+  },
+  {
+    "searchId": "abb-india-ltd",
+    "growwCompanyId": "GSTK500002",
+    "nseScriptCode": "ABB",
+    "bseScriptCode": "500002",
+    "nseTradingSymbol": "ABB-EQ",
+    "bseTradingSymbol": "ABB"
+  },
+  {
+    "searchId": "cipla-ltd",
+    "growwCompanyId": "GSTK500087",
+    "nseScriptCode": "CIPLA",
+    "bseScriptCode": "500087",
+    "nseTradingSymbol": "CIPLA-EQ",
+    "bseTradingSymbol": "CIPLA"
+  },
+  {
+    "searchId": "mazagon-dock-shipbuilders-ltd",
+    "growwCompanyId": "GSTK543237",
+    "nseScriptCode": "MAZDOCK",
+    "bseScriptCode": "543237",
+    "nseTradingSymbol": "MAZDOCK-EQ",
+    "bseTradingSymbol": "MAZDOCK"
+  },
+  {
+    "searchId": "shriram-transport-finance-company-ltd",
+    "growwCompanyId": "GSTK511218",
+    "nseScriptCode": "SHRIRAMFIN",
+    "bseScriptCode": "511218",
+    "nseTradingSymbol": "SHRIRAMFIN-EQ",
+    "bseTradingSymbol": "SHRIRAMFIN"
+  },
+  {
+    "searchId": "torrent-pharmaceuticals-ltd",
+    "growwCompanyId": "GSTK500420",
+    "nseScriptCode": "TORNTPHARM",
+    "bseScriptCode": "500420",
+    "nseTradingSymbol": "TORNTPHARM-EQ",
+    "bseTradingSymbol": "TORNTPHARM"
+  },
+  {
+    "searchId": "hdfc-asset-management-company-ltd",
+    "growwCompanyId": "GSTK541729",
+    "nseScriptCode": "HDFCAMC",
+    "bseScriptCode": "541729",
+    "nseTradingSymbol": "HDFCAMC-EQ",
+    "bseTradingSymbol": "HDFCAMC"
+  },
+  {
+    "searchId": "shree-cement-ltd",
+    "growwCompanyId": "GSTK500387",
+    "nseScriptCode": "SHREECEM",
+    "bseScriptCode": "500387",
+    "nseTradingSymbol": "SHREECEM-EQ",
+    "bseTradingSymbol": "SHREECEM"
+  },
+  {
+    "searchId": "bosch-ltd",
+    "growwCompanyId": "GSTK500530",
+    "nseScriptCode": "BOSCHLTD",
+    "bseScriptCode": "500530",
+    "nseTradingSymbol": "BOSCHLTD-EQ",
+    "bseTradingSymbol": "BOSCHLTD"
+  },
+  {
+    "searchId": "siemens-ltd",
+    "growwCompanyId": "GSTK500550",
+    "nseScriptCode": "SIEMENS",
+    "bseScriptCode": "500550",
+    "nseTradingSymbol": "SIEMENS-EQ",
+    "bseTradingSymbol": "SIEMENS"
+  },
+  {
+    "searchId": "union-bank-of-india",
+    "growwCompanyId": "GSTK532477",
+    "nseScriptCode": "UNIONBANK",
+    "bseScriptCode": "532477",
+    "nseTradingSymbol": "UNIONBANK-EQ",
+    "bseTradingSymbol": "UNIONBANK"
+  },
+  {
+    "searchId": "motherson-sumi-systems-ltd",
+    "growwCompanyId": "GSTK517334",
+    "nseScriptCode": "MOTHERSON",
+    "bseScriptCode": "517334",
+    "nseTradingSymbol": "MOTHERSON-EQ",
+    "bseTradingSymbol": "MOTHERSON"
+  },
+  {
+    "searchId": "bharti-infratel-ltd",
+    "growwCompanyId": "GSTK534816",
+    "nseScriptCode": "INDUSTOWER",
+    "bseScriptCode": "534816",
+    "nseTradingSymbol": "INDUSTOWER-EQ",
+    "bseTradingSymbol": "INDUSTOWER"
+  },
+  {
+    "searchId": "the-indian-hotels-company-ltd",
+    "growwCompanyId": "GSTK500850",
+    "nseScriptCode": "INDHOTEL",
+    "bseScriptCode": "500850",
+    "nseTradingSymbol": "INDHOTEL-EQ",
+    "bseTradingSymbol": "INDHOTEL"
+  },
+  {
+    "searchId": "cg-power-industrial-solutions-ltd",
+    "growwCompanyId": "GSTK500093",
+    "nseScriptCode": "CGPOWER",
+    "bseScriptCode": "500093",
+    "nseTradingSymbol": "CGPOWER-EQ",
+    "bseTradingSymbol": "CGPOWER"
+  },
+  {
+    "searchId": "siemens-energy-india-ltd",
+    "growwCompanyId": "GSTK544390",
+    "nseScriptCode": "ENRIN",
+    "bseScriptCode": "544390",
+    "nseTradingSymbol": "ENRIN-EQ",
+    "bseTradingSymbol": "ENRIN"
+  },
+  {
+    "searchId": "muthoot-finance-ltd",
+    "growwCompanyId": "GSTK533398",
+    "nseScriptCode": "MUTHOOTFIN",
+    "bseScriptCode": "533398",
+    "nseTradingSymbol": "MUTHOOTFIN-EQ",
+    "bseTradingSymbol": "MUTHOOTFIN"
+  },
+  {
+    "searchId": "mankind-pharma-ltd",
+    "growwCompanyId": "GSTK543904",
+    "nseScriptCode": "MANKIND",
+    "bseScriptCode": "543904",
+    "nseTradingSymbol": "MANKIND-EQ",
+    "bseTradingSymbol": "MANKIND"
+  },
+  {
+    "searchId": "rec-ltd",
+    "growwCompanyId": "GSTK532955",
+    "nseScriptCode": "RECLTD",
+    "bseScriptCode": "532955",
+    "nseTradingSymbol": "RECLTD-EQ",
+    "bseTradingSymbol": "RECLTD"
+  },
+  {
+    "searchId": "tata-global-beverages-ltd",
+    "growwCompanyId": "GSTK500800",
+    "nseScriptCode": "TATACONSUM",
+    "bseScriptCode": "500800",
+    "nseTradingSymbol": "TATACONSUM-EQ",
+    "bseTradingSymbol": "TATACONSUM"
+  },
+  {
+    "searchId": "apollo-hospitals-enterprise-ltd",
+    "growwCompanyId": "GSTK508869",
+    "nseScriptCode": "APOLLOHOSP",
+    "bseScriptCode": "508869",
+    "nseTradingSymbol": "APOLLOHOSP-EQ",
+    "bseTradingSymbol": "APOLLOHOSP"
+  },
+  {
+    "searchId": "dr-reddys-laboratories-ltd",
+    "growwCompanyId": "GSTK500124",
+    "nseScriptCode": "DRREDDY",
+    "bseScriptCode": "500124",
+    "nseTradingSymbol": "DRREDDY-EQ",
+    "bseTradingSymbol": "DRREDDY"
+  },
+  {
+    "searchId": "swiggy-ltd",
+    "growwCompanyId": "GSTK544285",
+    "nseScriptCode": "SWIGGY",
+    "bseScriptCode": "544285",
+    "nseTradingSymbol": "SWIGGY-EQ",
+    "bseTradingSymbol": "SWIGGY"
+  },
+  {
+    "searchId": "idbi-bank-ltd",
+    "growwCompanyId": "GSTK500116",
+    "nseScriptCode": "IDBI",
+    "bseScriptCode": "500116",
+    "nseTradingSymbol": "IDBI-EQ",
+    "bseTradingSymbol": "IDBI"
+  },
+  {
+    "searchId": "canara-bank",
+    "growwCompanyId": "GSTK532483",
+    "nseScriptCode": "CANBK",
+    "bseScriptCode": "532483",
+    "nseTradingSymbol": "CANBK-EQ",
+    "bseTradingSymbol": "CANBK"
+  },
+  {
+    "searchId": "polycab-india-ltd",
+    "growwCompanyId": "GSTK542652",
+    "nseScriptCode": "POLYCAB",
+    "bseScriptCode": "542652",
+    "nseTradingSymbol": "POLYCAB-EQ",
+    "bseTradingSymbol": "POLYCAB"
+  },
+  {
+    "searchId": "adani-transmission-ltd",
+    "growwCompanyId": "GSTK539254",
+    "nseScriptCode": "ADANIENSOL",
+    "bseScriptCode": "539254",
+    "nseTradingSymbol": "ADANIENSOL-EQ",
+    "bseTradingSymbol": "ADANIENSOL"
+  },
+  {
+    "searchId": "jindal-steel-power-ltd",
+    "growwCompanyId": "GSTK532286",
+    "nseScriptCode": "JINDALSTEL",
+    "bseScriptCode": "532286",
+    "nseTradingSymbol": "JINDALSTEL-EQ",
+    "bseTradingSymbol": "JINDALSTEL"
+  },
+  {
+    "searchId": "dixon-technologies-india-ltd",
+    "growwCompanyId": "GSTK540699",
+    "nseScriptCode": "DIXON",
+    "bseScriptCode": "540699",
+    "nseTradingSymbol": "DIXON-EQ",
+    "bseTradingSymbol": "DIXON"
+  },
+  {
+    "searchId": "bajaj-housing-finance-ltd",
+    "growwCompanyId": "GSTK544252",
+    "nseScriptCode": "BAJAJHFL",
+    "bseScriptCode": "544252",
+    "nseTradingSymbol": "BAJAJHFL-EQ",
+    "bseTradingSymbol": "BAJAJHFL"
+  },
+  {
+    "searchId": "cummins-india-ltd",
+    "growwCompanyId": "GSTK500480",
+    "nseScriptCode": "CUMMINSIND",
+    "bseScriptCode": "500480",
+    "nseTradingSymbol": "CUMMINSIND-EQ",
+    "bseTradingSymbol": "CUMMINSIND"
+  },
+  {
+    "searchId": "cadila-healthcare-ltd",
+    "growwCompanyId": "GSTK532321",
+    "nseScriptCode": "ZYDUSLIFE",
+    "bseScriptCode": "532321",
+    "nseTradingSymbol": "ZYDUSLIFE-EQ",
+    "bseTradingSymbol": "ZYDUSLIFE"
+  },
+  {
+    "searchId": "havells-india-ltd",
+    "growwCompanyId": "GSTK517354",
+    "nseScriptCode": "HAVELLS",
+    "bseScriptCode": "517354",
+    "nseTradingSymbol": "HAVELLS-EQ",
+    "bseTradingSymbol": "HAVELLS"
+  },
+  {
+    "searchId": "united-spirits-ltd",
+    "growwCompanyId": "GSTK532432",
+    "nseScriptCode": "UNITDSPR",
+    "bseScriptCode": "532432",
+    "nseTradingSymbol": "UNITDSPR-EQ",
+    "bseTradingSymbol": "UNITDSPR"
+  },
+  {
+    "searchId": "gmr-infrastructure-ltd",
+    "growwCompanyId": "GSTK532754",
+    "nseScriptCode": "GMRAIRPORT",
+    "bseScriptCode": "532754",
+    "nseTradingSymbol": "GMRAIRPORT-EQ",
+    "bseTradingSymbol": "GMRAIRPORT"
+  },
+  {
+    "searchId": "icici-lombard-general-insurance-co-ltd",
+    "growwCompanyId": "GSTK540716",
+    "nseScriptCode": "ICICIGI",
+    "bseScriptCode": "540716",
+    "nseTradingSymbol": "ICICIGI-EQ",
+    "bseTradingSymbol": "ICICIGI"
+  },
+  {
+    "searchId": "info-edge-india-ltd",
+    "growwCompanyId": "GSTK532777",
+    "nseScriptCode": "NAUKRI",
+    "bseScriptCode": "532777",
+    "nseTradingSymbol": "NAUKRI-EQ",
+    "bseTradingSymbol": "NAUKRI"
+  },
+  {
+    "searchId": "srf-ltd",
+    "growwCompanyId": "GSTK503806",
+    "nseScriptCode": "SRF",
+    "bseScriptCode": "503806",
+    "nseTradingSymbol": "SRF-EQ",
+    "bseTradingSymbol": "SRF"
+  },
+  {
+    "searchId": "waaree-energies-ltd",
+    "growwCompanyId": "GSTK544277",
+    "nseScriptCode": "WAAREEENER",
+    "bseScriptCode": "544277",
+    "nseTradingSymbol": "WAAREEENER-EQ",
+    "bseTradingSymbol": "WAAREEENER"
+  },
+  {
+    "searchId": "jsw-energy-ltd",
+    "growwCompanyId": "GSTK533148",
+    "nseScriptCode": "JSWENERGY",
+    "bseScriptCode": "533148",
+    "nseTradingSymbol": "JSWENERGY-EQ",
+    "bseTradingSymbol": "JSWENERGY"
+  },
+  {
+    "searchId": "hindustan-petroleum-corporation-ltd",
+    "growwCompanyId": "GSTK500104",
+    "nseScriptCode": "HINDPETRO",
+    "bseScriptCode": "500104",
+    "nseTradingSymbol": "HINDPETRO-EQ",
+    "bseTradingSymbol": "HINDPETRO"
+  },
+  {
+    "searchId": "marico-ltd",
+    "growwCompanyId": "GSTK531642",
+    "nseScriptCode": "MARICO",
+    "bseScriptCode": "531642",
+    "nseTradingSymbol": "MARICO-EQ",
+    "bseTradingSymbol": "MARICO"
+  },
+  {
+    "searchId": "bharti-hexacom-ltd",
+    "growwCompanyId": "GSTK544162",
+    "nseScriptCode": "BHARTIHEXA",
+    "bseScriptCode": "544162",
+    "nseTradingSymbol": "BHARTIHEXA-EQ",
+    "bseTradingSymbol": "BHARTIHEXA"
+  },
+  {
+    "searchId": "dabur-india-ltd",
+    "growwCompanyId": "GSTK500096",
+    "nseScriptCode": "DABUR",
+    "bseScriptCode": "500096",
+    "nseTradingSymbol": "DABUR-EQ",
+    "bseTradingSymbol": "DABUR"
+  },
+  {
+    "searchId": "icici-prudential-life-insurance-company-ltd",
+    "growwCompanyId": "GSTK540133",
+    "nseScriptCode": "ICICIPRULI",
+    "bseScriptCode": "540133",
+    "nseTradingSymbol": "ICICIPRULI-EQ",
+    "bseTradingSymbol": "ICICIPRULI"
+  },
+  {
+    "searchId": "ntpc-green-energy-ltd",
+    "growwCompanyId": "GSTK544289",
+    "nseScriptCode": "NTPCGREEN",
+    "bseScriptCode": "544289",
+    "nseTradingSymbol": "NTPCGREEN-EQ",
+    "bseTradingSymbol": "NTPCGREEN"
+  },
+  {
+    "searchId": "suzlon-energy-ltd",
+    "growwCompanyId": "GSTK532667",
+    "nseScriptCode": "SUZLON",
+    "bseScriptCode": "532667",
+    "nseTradingSymbol": "SUZLON-EQ",
+    "bseTradingSymbol": "SUZLON"
+  },
+  {
+    "searchId": "lupin-ltd",
+    "growwCompanyId": "GSTK500257",
+    "nseScriptCode": "LUPIN",
+    "bseScriptCode": "500257",
+    "nseTradingSymbol": "LUPIN-EQ",
+    "bseTradingSymbol": "LUPIN"
+  },
+  {
+    "searchId": "abb-power-products-systems-india-ltd",
+    "growwCompanyId": "GSTK543187",
+    "nseScriptCode": "POWERINDIA",
+    "bseScriptCode": "543187",
+    "nseTradingSymbol": "POWERINDIA-EQ",
+    "bseTradingSymbol": "POWERINDIA"
+  },
+  {
+    "searchId": "indian-bank",
+    "growwCompanyId": "GSTK532814",
+    "nseScriptCode": "INDIANB",
+    "bseScriptCode": "532814",
+    "nseTradingSymbol": "INDIANB-EQ",
+    "bseTradingSymbol": "INDIANB"
+  },
+  {
+    "searchId": "bharat-heavy-electricals-ltd",
+    "growwCompanyId": "GSTK500103",
+    "nseScriptCode": "BHEL",
+    "bseScriptCode": "500103",
+    "nseTradingSymbol": "BHEL-EQ",
+    "bseTradingSymbol": "BHEL"
+  },
+  {
+    "searchId": "nhpc-ltd",
+    "growwCompanyId": "GSTK533098",
+    "nseScriptCode": "NHPC",
+    "bseScriptCode": "533098",
+    "nseTradingSymbol": "NHPC-EQ",
+    "bseTradingSymbol": "NHPC"
+  },
+  {
+    "searchId": "hero-motocorp-ltd",
+    "growwCompanyId": "GSTK500182",
+    "nseScriptCode": "HEROMOTOCO",
+    "bseScriptCode": "500182",
+    "nseTradingSymbol": "HEROMOTOCO-EQ",
+    "bseTradingSymbol": "HEROMOTOCO"
+  },
+  {
+    "searchId": "sbi-cards-payment-services-ltd",
+    "growwCompanyId": "GSTK543066",
+    "nseScriptCode": "SBICARD",
+    "bseScriptCode": "543066",
+    "nseTradingSymbol": "SBICARD-EQ",
+    "bseTradingSymbol": "SBICARD"
+  },
+  {
+    "searchId": "pb-fintech-ltd",
+    "growwCompanyId": "GSTK543390",
+    "nseScriptCode": "POLICYBZR",
+    "bseScriptCode": "543390",
+    "nseTradingSymbol": "POLICYBZR-EQ",
+    "bseTradingSymbol": "POLICYBZR"
+  },
+  {
+    "searchId": "persistent-systems-ltd",
+    "growwCompanyId": "GSTK533179",
+    "nseScriptCode": "PERSISTENT",
+    "bseScriptCode": "533179",
+    "nseTradingSymbol": "PERSISTENT-EQ",
+    "bseTradingSymbol": "PERSISTENT"
+  },
+  {
+    "searchId": "lloyds-metals-energy-ltd",
+    "growwCompanyId": "GSTK512455",
+    "nseScriptCode": "LLOYDSME",
+    "bseScriptCode": "512455",
+    "nseTradingSymbol": "LLOYDSME-EQ",
+    "bseTradingSymbol": "LLOYDSME"
+  },
+  {
+    "searchId": "vodafone-idea-ltd",
+    "growwCompanyId": "GSTK532822",
+    "nseScriptCode": "IDEA",
+    "bseScriptCode": "532822",
+    "nseTradingSymbol": "IDEA-EQ",
+    "bseTradingSymbol": "IDEA"
+  },
+  {
+    "searchId": "rail-vikas-nigam-ltd",
+    "growwCompanyId": "GSTK542649",
+    "nseScriptCode": "RVNL",
+    "bseScriptCode": "542649",
+    "nseTradingSymbol": "RVNL-EQ",
+    "bseTradingSymbol": "RVNL"
+  },
+  {
+    "searchId": "oracle-financial-services-software-ltd",
+    "growwCompanyId": "GSTK532466",
+    "nseScriptCode": "OFSS",
+    "bseScriptCode": "532466",
+    "nseTradingSymbol": "OFSS-EQ",
+    "bseTradingSymbol": "OFSS"
+  },
+  {
+    "searchId": "indian-overseas-bank",
+    "growwCompanyId": "GSTK532388",
+    "nseScriptCode": "IOB",
+    "bseScriptCode": "532388",
+    "nseTradingSymbol": "IOB-EQ",
+    "bseTradingSymbol": "IOB"
+  },
+  {
+    "searchId": "abbott-india-ltd",
+    "growwCompanyId": "GSTK500488",
+    "nseScriptCode": "ABBOTINDIA",
+    "bseScriptCode": "500488",
+    "nseTradingSymbol": "ABBOTINDIA-EQ",
+    "bseTradingSymbol": "ABBOTINDIA"
+  },
+  {
+    "searchId": "ashok-leyland-ltd",
+    "growwCompanyId": "GSTK500477",
+    "nseScriptCode": "ASHOKLEY",
+    "bseScriptCode": "500477",
+    "nseTradingSymbol": "ASHOKLEY-EQ",
+    "bseTradingSymbol": "ASHOKLEY"
+  },
+  {
+    "searchId": "prestige-estate-projects-ltd",
+    "growwCompanyId": "GSTK533274",
+    "nseScriptCode": "PRESTIGE",
+    "bseScriptCode": "533274",
+    "nseTradingSymbol": "PRESTIGE-EQ",
+    "bseTradingSymbol": "PRESTIGE"
+  },
+  {
+    "searchId": "oil-india-ltd",
+    "growwCompanyId": "GSTK533106",
+    "nseScriptCode": "OIL",
+    "bseScriptCode": "533106",
+    "nseTradingSymbol": "OIL-EQ",
+    "bseTradingSymbol": "OIL"
+  },
+  {
+    "searchId": "coromandel-international-ltd",
+    "growwCompanyId": "GSTK506395",
+    "nseScriptCode": "COROMANDEL",
+    "bseScriptCode": "506395",
+    "nseTradingSymbol": "COROMANDEL-EQ",
+    "bseTradingSymbol": "COROMANDEL"
+  },
+  {
+    "searchId": "adani-gas-ltd",
+    "growwCompanyId": "GSTK542066",
+    "nseScriptCode": "ATGL",
+    "bseScriptCode": "542066",
+    "nseTradingSymbol": "ATGL-EQ",
+    "bseTradingSymbol": "ATGL"
+  },
+  {
+    "searchId": "aditya-birla-capital-ltd",
+    "growwCompanyId": "GSTK540691",
+    "nseScriptCode": "ABCAPITAL",
+    "bseScriptCode": "540691",
+    "nseTradingSymbol": "ABCAPITAL-EQ",
+    "bseTradingSymbol": "ABCAPITAL"
+  },
+  {
+    "searchId": "one-communications-ltd",
+    "growwCompanyId": "GSTK543396",
+    "nseScriptCode": "PAYTM",
+    "bseScriptCode": "543396",
+    "nseTradingSymbol": "PAYTM-EQ",
+    "bseTradingSymbol": "PAYTM"
+  },
+  {
+    "searchId": "godrej-properties-ltd",
+    "growwCompanyId": "GSTK533150",
+    "nseScriptCode": "GODREJPROP",
+    "bseScriptCode": "533150",
+    "nseTradingSymbol": "GODREJPROP-EQ",
+    "bseTradingSymbol": "GODREJPROP"
+  },
+  {
+    "searchId": "ruchi-soya-industries-ltd",
+    "growwCompanyId": "GSTK500368",
+    "nseScriptCode": "PATANJALI",
+    "bseScriptCode": "500368",
+    "nseTradingSymbol": "PATANJALI-EQ",
+    "bseTradingSymbol": "PATANJALI"
+  },
+  {
+    "searchId": "torrent-power-ltd",
+    "growwCompanyId": "GSTK532779",
+    "nseScriptCode": "TORNTPOWER",
+    "bseScriptCode": "532779",
+    "nseTradingSymbol": "TORNTPOWER-EQ",
+    "bseTradingSymbol": "TORNTPOWER"
+  },
+  {
+    "searchId": "jsw-infrastructure-ltd",
+    "growwCompanyId": "GSTK543994",
+    "nseScriptCode": "JSWINFRA",
+    "bseScriptCode": "543994",
+    "nseTradingSymbol": "JSWINFRA-EQ",
+    "bseTradingSymbol": "JSWINFRA"
+  },
+  {
+    "searchId": "berger-paints-india-ltd",
+    "growwCompanyId": "GSTK509480",
+    "nseScriptCode": "BERGEPAINT",
+    "bseScriptCode": "509480",
+    "nseTradingSymbol": "BERGEPAINT-EQ",
+    "bseTradingSymbol": "BERGEPAINT"
+  },
+  {
+    "searchId": "general-insurance-corporation-of-india-ltd",
+    "growwCompanyId": "GSTK540755",
+    "nseScriptCode": "GICRE",
+    "bseScriptCode": "540755",
+    "nseTradingSymbol": "GICRE-EQ",
+    "bseTradingSymbol": "GICRE"
+  },
+  {
+    "searchId": "indusind-bank-ltd",
+    "growwCompanyId": "GSTK532187",
+    "nseScriptCode": "INDUSINDBK",
+    "bseScriptCode": "532187",
+    "nseTradingSymbol": "INDUSINDBK-EQ",
+    "bseTradingSymbol": "INDUSINDBK"
+  },
+  {
+    "searchId": "vishal-mega-mart-ltd",
+    "growwCompanyId": "GSTK544307",
+    "nseScriptCode": "VMM",
+    "bseScriptCode": "544307",
+    "nseTradingSymbol": "VMM-EQ",
+    "bseTradingSymbol": "VMM"
+  },
+  {
+    "searchId": "aurobindo-pharma-ltd",
+    "growwCompanyId": "GSTK524804",
+    "nseScriptCode": "AUROPHARMA",
+    "bseScriptCode": "524804",
+    "nseTradingSymbol": "AUROPHARMA-EQ",
+    "bseTradingSymbol": "AUROPHARMA"
+  },
+  {
+    "searchId": "hdb-financial-services-ltd",
+    "growwCompanyId": "GSTK544429",
+    "nseScriptCode": "HDBFS",
+    "bseScriptCode": "544429",
+    "nseTradingSymbol": "HDBFS-EQ",
+    "bseTradingSymbol": "HDBFS"
+  },
+  {
+    "searchId": "schaeffler-india-ltd",
+    "growwCompanyId": "GSTK505790",
+    "nseScriptCode": "SCHAEFFLER",
+    "bseScriptCode": "505790",
+    "nseTradingSymbol": "SCHAEFFLER-EQ",
+    "bseTradingSymbol": "SCHAEFFLER"
+  },
+  {
+    "searchId": "ge-td-india-ltd",
+    "growwCompanyId": "GSTK522275",
+    "nseScriptCode": "GVT&D",
+    "bseScriptCode": "522275",
+    "nseTradingSymbol": "GVT&D-EQ",
+    "bseTradingSymbol": "GVTD"
+  },
+  {
+    "searchId": "fortis-healthcare-ltd",
+    "growwCompanyId": "GSTK532843",
+    "nseScriptCode": "FORTIS",
+    "bseScriptCode": "532843",
+    "nseTradingSymbol": "FORTIS-EQ",
+    "bseTradingSymbol": "FORTIS"
+  },
+  {
+    "searchId": "nmdc-ltd",
+    "growwCompanyId": "GSTK526371",
+    "nseScriptCode": "NMDC",
+    "bseScriptCode": "526371",
+    "nseTradingSymbol": "NMDC-EQ",
+    "bseTradingSymbol": "NMDC"
+  },
+  {
+    "searchId": "oberoi-realty-ltd",
+    "growwCompanyId": "GSTK533273",
+    "nseScriptCode": "OBEROIRLTY",
+    "bseScriptCode": "533273",
+    "nseTradingSymbol": "OBEROIRLTY-EQ",
+    "bseTradingSymbol": "OBEROIRLTY"
+  },
+  {
+    "searchId": "kalyan-jewellers-india-ltd",
+    "growwCompanyId": "GSTK543278",
+    "nseScriptCode": "KALYANKJIL",
+    "bseScriptCode": "543278",
+    "nseTradingSymbol": "KALYANKJIL-EQ",
+    "bseTradingSymbol": "KALYANKJIL"
+  },
+  {
+    "searchId": "fertilisers-chemicals-travancore-ltd",
+    "growwCompanyId": "GSTK590024",
+    "nseScriptCode": "FACT",
+    "bseScriptCode": "590024",
+    "nseTradingSymbol": "FACT-EQ",
+    "bseTradingSymbol": "FACT"
+  },
+  {
+    "searchId": "yes-bank-ltd",
+    "growwCompanyId": "GSTK532648",
+    "nseScriptCode": "YESBANK",
+    "bseScriptCode": "532648",
+    "nseTradingSymbol": "YESBANK-EQ",
+    "bseTradingSymbol": "YESBANK"
+  },
+  {
+    "searchId": "pi-industries-ltd",
+    "growwCompanyId": "GSTK523642",
+    "nseScriptCode": "PIIND",
+    "bseScriptCode": "523642",
+    "nseTradingSymbol": "PIIND-EQ",
+    "bseTradingSymbol": "PIIND"
+  },
+  {
+    "searchId": "bharat-dynamics-ltd",
+    "growwCompanyId": "GSTK541143",
+    "nseScriptCode": "BDL",
+    "bseScriptCode": "541143",
+    "nseTradingSymbol": "BDL-EQ",
+    "bseTradingSymbol": "BDL"
+  },
+  {
+    "searchId": "minda-industries-ltd",
+    "growwCompanyId": "GSTK532539",
+    "nseScriptCode": "UNOMINDA",
+    "bseScriptCode": "532539",
+    "nseTradingSymbol": "UNOMINDA-EQ",
+    "bseTradingSymbol": "UNOMINDA"
+  },
+  {
+    "searchId": "fsn-ecommerce-ventures-ltd",
+    "growwCompanyId": "GSTK543384",
+    "nseScriptCode": "NYKAA",
+    "bseScriptCode": "543384",
+    "nseTradingSymbol": "NYKAA-EQ",
+    "bseTradingSymbol": "NYKAA"
+  },
+  {
+    "searchId": "colgatepalmolive-india-ltd",
+    "growwCompanyId": "GSTK500830",
+    "nseScriptCode": "COLPAL",
+    "bseScriptCode": "500830",
+    "nseTradingSymbol": "COLPAL-EQ",
+    "bseTradingSymbol": "COLPAL"
+  },
+  {
+    "searchId": "indian-railway-catering-tourism-corpn-ltd",
+    "growwCompanyId": "GSTK542830",
+    "nseScriptCode": "IRCTC",
+    "bseScriptCode": "542830",
+    "nseTradingSymbol": "IRCTC-EQ",
+    "bseTradingSymbol": "IRCTC"
+  },
+  {
+    "searchId": "glenmark-pharmaceuticals-ltd",
+    "growwCompanyId": "GSTK532296",
+    "nseScriptCode": "GLENMARK",
+    "bseScriptCode": "532296",
+    "nseTradingSymbol": "GLENMARK-EQ",
+    "bseTradingSymbol": "GLENMARK"
+  },
+  {
+    "searchId": "alkem-laboratories-ltd",
+    "growwCompanyId": "GSTK539523",
+    "nseScriptCode": "ALKEM",
+    "bseScriptCode": "539523",
+    "nseTradingSymbol": "ALKEM-EQ",
+    "bseTradingSymbol": "ALKEM"
+  },
+  {
+    "searchId": "upl-ltd",
+    "growwCompanyId": "GSTK512070",
+    "nseScriptCode": "UPL",
+    "bseScriptCode": "512070",
+    "nseTradingSymbol": "UPL-EQ",
+    "bseTradingSymbol": "UPL"
+  },
+  {
+    "searchId": "bharat-forge-ltd",
+    "growwCompanyId": "GSTK500493",
+    "nseScriptCode": "BHARATFORG",
+    "bseScriptCode": "500493",
+    "nseTradingSymbol": "BHARATFORG-EQ",
+    "bseTradingSymbol": "BHARATFORG"
+  },
+  {
+    "searchId": "sundaram-finance-ltd",
+    "growwCompanyId": "GSTK590071",
+    "nseScriptCode": "SUNDARMFIN",
+    "bseScriptCode": "590071",
+    "nseTradingSymbol": "SUNDARMFIN-EQ",
+    "bseTradingSymbol": "SUNDARMFIN"
+  },
+  {
+    "searchId": "tube-investments-of-india-ltd",
+    "growwCompanyId": "GSTK540762",
+    "nseScriptCode": "TIINDIA",
+    "bseScriptCode": "540762",
+    "nseTradingSymbol": "TIINDIA-EQ",
+    "bseTradingSymbol": "TIINDIA"
+  },
+  {
+    "searchId": "mindtree-ltd",
+    "growwCompanyId": "GSTK532819",
+    "nseScriptCode": "MINDTREE",
+    "bseScriptCode": "532819"
+  },
+  {
+    "searchId": "linde-india-ltd",
+    "growwCompanyId": "GSTK523457",
+    "nseScriptCode": "LINDEINDIA",
+    "bseScriptCode": "523457",
+    "nseTradingSymbol": "LINDEINDIA-EQ",
+    "bseTradingSymbol": "LINDEINDIA"
+  },
+  {
+    "searchId": "steel-authority-of-india-ltd",
+    "growwCompanyId": "GSTK500113",
+    "nseScriptCode": "SAIL",
+    "bseScriptCode": "500113",
+    "nseTradingSymbol": "SAIL-EQ",
+    "bseTradingSymbol": "SAIL"
+  },
+  {
+    "searchId": "niit-technologies-ltd",
+    "growwCompanyId": "GSTK532541",
+    "nseScriptCode": "COFORGE",
+    "bseScriptCode": "532541",
+    "nseTradingSymbol": "COFORGE-EQ",
+    "bseTradingSymbol": "COFORGE"
+  },
+  {
+    "searchId": "au-small-finance-bank-ltd",
+    "growwCompanyId": "GSTK540611",
+    "nseScriptCode": "AUBANK",
+    "bseScriptCode": "540611",
+    "nseTradingSymbol": "AUBANK-EQ",
+    "bseTradingSymbol": "AUBANK"
+  },
+  {
+    "searchId": "jindal-stainless-ltd",
+    "growwCompanyId": "GSTK532508",
+    "nseScriptCode": "JSL",
+    "bseScriptCode": "532508",
+    "nseTradingSymbol": "JSL-EQ",
+    "bseTradingSymbol": "JSL"
+  },
+  {
+    "searchId": "motilal-oswal-financial-services-ltd",
+    "growwCompanyId": "GSTK532892",
+    "nseScriptCode": "MOTILALOFS",
+    "bseScriptCode": "532892",
+    "nseTradingSymbol": "MOTILALOFS-EQ",
+    "bseTradingSymbol": "MOTILALOFS"
+  },
+  {
+    "searchId": "supreme-industries-ltd",
+    "growwCompanyId": "GSTK509930",
+    "nseScriptCode": "SUPREMEIND",
+    "bseScriptCode": "509930",
+    "nseTradingSymbol": "SUPREMEIND-EQ",
+    "bseTradingSymbol": "SUPREMEIND"
+  },
+  {
+    "searchId": "glaxosmithkline-pharmaceuticals-ltd",
+    "growwCompanyId": "GSTK500660",
+    "nseScriptCode": "GLAXO",
+    "bseScriptCode": "500660",
+    "nseTradingSymbol": "GLAXO-EQ",
+    "bseTradingSymbol": "GLAXO"
+  },
+  {
+    "searchId": "idfc-bank-ltd",
+    "growwCompanyId": "GSTK539437",
+    "nseScriptCode": "IDFCFIRSTB",
+    "bseScriptCode": "539437",
+    "nseTradingSymbol": "IDFCFIRSTB-EQ",
+    "bseTradingSymbol": "IDFCFIRSTB"
+  },
+  {
+    "searchId": "united-breweries-ltd",
+    "growwCompanyId": "GSTK532478",
+    "nseScriptCode": "UBL",
+    "bseScriptCode": "532478",
+    "nseTradingSymbol": "UBL-EQ",
+    "bseTradingSymbol": "UBL"
+  },
+  {
+    "searchId": "biocon-ltd",
+    "growwCompanyId": "GSTK532523",
+    "nseScriptCode": "BIOCON",
+    "bseScriptCode": "532523",
+    "nseTradingSymbol": "BIOCON-EQ",
+    "bseTradingSymbol": "BIOCON"
+  },
+  {
+    "searchId": "balkrishna-industries-ltd",
+    "growwCompanyId": "GSTK502355",
+    "nseScriptCode": "BALKRISIND",
+    "bseScriptCode": "502355",
+    "nseTradingSymbol": "BALKRISIND-EQ",
+    "bseTradingSymbol": "BALKRISIND"
+  },
+  {
+    "searchId": "reliance-nippon-life-asset-management-ltd",
+    "growwCompanyId": "GSTK540767",
+    "nseScriptCode": "NAM-INDIA",
+    "bseScriptCode": "540767",
+    "nseTradingSymbol": "NAM-INDIA-EQ",
+    "bseTradingSymbol": "NAM-INDIA"
+  },
+  {
+    "searchId": "max-financial-services-ltd",
+    "growwCompanyId": "GSTK500271",
+    "nseScriptCode": "MFSL",
+    "bseScriptCode": "500271",
+    "nseTradingSymbol": "MFSL-EQ",
+    "bseTradingSymbol": "MFSL"
+  },
+  {
+    "searchId": "lt-finance-holdings-ltd",
+    "growwCompanyId": "GSTK533519",
+    "nseScriptCode": "LTF",
+    "bseScriptCode": "533519",
+    "nseTradingSymbol": "LTF-EQ",
+    "bseTradingSymbol": "LTF"
+  },
+  {
+    "searchId": "page-industries-ltd",
+    "growwCompanyId": "GSTK532827",
+    "nseScriptCode": "PAGEIND",
+    "bseScriptCode": "532827",
+    "nseTradingSymbol": "PAGEIND-EQ",
+    "bseTradingSymbol": "PAGEIND"
+  },
+  {
+    "searchId": "the-federal-bank-ltd",
+    "growwCompanyId": "GSTK500469",
+    "nseScriptCode": "FEDERALBNK",
+    "bseScriptCode": "500469",
+    "nseTradingSymbol": "FEDERALBNK-EQ",
+    "bseTradingSymbol": "FEDERALBNK"
+  },
+  {
+    "searchId": "bank-of-india",
+    "growwCompanyId": "GSTK532149",
+    "nseScriptCode": "BANKINDIA",
+    "bseScriptCode": "532149",
+    "nseTradingSymbol": "BANKINDIA-EQ",
+    "bseTradingSymbol": "BANKINDIA"
+  },
+  {
+    "searchId": "phoenix-mills-ltd",
+    "growwCompanyId": "GSTK503100",
+    "nseScriptCode": "PHOENIXLTD",
+    "bseScriptCode": "503100",
+    "nseTradingSymbol": "PHOENIXLTD-EQ",
+    "bseTradingSymbol": "PHOENIXLTD"
+  },
+  {
+    "searchId": "itc-hotels-ltd-463",
+    "growwCompanyId": "GSTK544325",
+    "nseScriptCode": "ITCHOTELS",
+    "bseScriptCode": "544325",
+    "nseTradingSymbol": "ITCHOTELS-EQ",
+    "bseTradingSymbol": "ITCHOTELS"
+  },
+  {
+    "searchId": "jk-cement-ltd",
+    "growwCompanyId": "GSTK532644",
+    "nseScriptCode": "JKCEMENT",
+    "bseScriptCode": "532644",
+    "nseTradingSymbol": "JKCEMENT-EQ",
+    "bseTradingSymbol": "JKCEMENT"
+  },
+  {
+    "searchId": "mphasis-ltd",
+    "growwCompanyId": "GSTK526299",
+    "nseScriptCode": "MPHASIS",
+    "bseScriptCode": "526299",
+    "nseTradingSymbol": "MPHASIS-EQ",
+    "bseTradingSymbol": "MPHASIS"
+  },
+  {
+    "searchId": "hexaware-technologies-limited",
+    "growwCompanyId": "GSTK544362",
+    "nseScriptCode": "HEXT",
+    "bseScriptCode": "544362",
+    "nseTradingSymbol": "HEXT-EQ",
+    "bseTradingSymbol": "HEXT"
+  },
+  {
+    "searchId": "premier-energies-ltd",
+    "growwCompanyId": "GSTK544238",
+    "nseScriptCode": "PREMIERENE",
+    "bseScriptCode": "544238",
+    "nseTradingSymbol": "PREMIERENE-EQ",
+    "bseTradingSymbol": "PREMIERENE"
+  },
+  {
+    "searchId": "tata-communications-ltd",
+    "growwCompanyId": "GSTK500483",
+    "nseScriptCode": "TATACOMM",
+    "bseScriptCode": "500483",
+    "nseTradingSymbol": "TATACOMM-EQ",
+    "bseTradingSymbol": "TATACOMM"
+  },
+  {
+    "searchId": "cochin-shipyard-ltd",
+    "growwCompanyId": "GSTK540678",
+    "nseScriptCode": "COCHINSHIP",
+    "bseScriptCode": "540678",
+    "nseTradingSymbol": "COCHINSHIP-EQ",
+    "bseTradingSymbol": "COCHINSHIP"
+  },
+  {
+    "searchId": "authum-investment-infrastructure-ltd",
+    "growwCompanyId": "GSTK539177",
+    "nseScriptCode": "AIIL",
+    "bseScriptCode": "539177",
+    "nseTradingSymbol": "AIIL-EQ",
+    "bseTradingSymbol": "AIIL"
+  },
+  {
+    "searchId": "apl-apollo-tubes-ltd",
+    "growwCompanyId": "GSTK533758",
+    "nseScriptCode": "APLAPOLLO",
+    "bseScriptCode": "533758",
+    "nseTradingSymbol": "APLAPOLLO-EQ",
+    "bseTradingSymbol": "APLAPOLLO"
+  },
+  {
+    "searchId": "container-corporation-of-india-ltd",
+    "growwCompanyId": "GSTK531344",
+    "nseScriptCode": "CONCOR",
+    "bseScriptCode": "531344",
+    "nseTradingSymbol": "CONCOR-EQ",
+    "bseTradingSymbol": "CONCOR"
+  },
+  {
+    "searchId": "petronet-lng-ltd",
+    "growwCompanyId": "GSTK532522",
+    "nseScriptCode": "PETRONET",
+    "bseScriptCode": "532522",
+    "nseTradingSymbol": "PETRONET-EQ",
+    "bseTradingSymbol": "PETRONET"
+  },
+  {
+    "searchId": "thermax-ltd",
+    "growwCompanyId": "GSTK500411",
+    "nseScriptCode": "THERMAX",
+    "bseScriptCode": "500411",
+    "nseTradingSymbol": "THERMAX-EQ",
+    "bseTradingSymbol": "THERMAX"
+  },
+  {
+    "searchId": "godfrey-phillips-india-ltd",
+    "growwCompanyId": "GSTK500163",
+    "nseScriptCode": "GODFRYPHLP",
+    "bseScriptCode": "500163",
+    "nseTradingSymbol": "GODFRYPHLP-EQ",
+    "bseTradingSymbol": "GODFRYPHLP"
+  },
+  {
+    "searchId": "lt-technology-services-ltd",
+    "growwCompanyId": "GSTK540115",
+    "nseScriptCode": "LTTS",
+    "bseScriptCode": "540115",
+    "nseTradingSymbol": "LTTS-EQ",
+    "bseTradingSymbol": "LTTS"
+  },
+  {
+    "searchId": "iifl-wealth-management-ltd-1568865430949",
+    "growwCompanyId": "GSTK542772",
+    "nseScriptCode": "360ONE",
+    "bseScriptCode": "542772",
+    "nseTradingSymbol": "360ONE-EQ",
+    "bseTradingSymbol": "360ONE"
+  },
+  {
+    "searchId": "laurus-labs-ltd",
+    "growwCompanyId": "GSTK540222",
+    "nseScriptCode": "LAURUSLABS",
+    "bseScriptCode": "540222",
+    "nseTradingSymbol": "LAURUSLABS-EQ",
+    "bseTradingSymbol": "LAURUSLABS"
+  },
+  {
+    "searchId": "housing-urban-development-corporation-ltd",
+    "growwCompanyId": "GSTK540530",
+    "nseScriptCode": "HUDCO",
+    "bseScriptCode": "540530",
+    "nseTradingSymbol": "HUDCO-EQ",
+    "bseTradingSymbol": "HUDCO"
+  },
+  {
+    "searchId": "voltas-ltd",
+    "growwCompanyId": "GSTK500575",
+    "nseScriptCode": "VOLTAS",
+    "bseScriptCode": "500575",
+    "nseTradingSymbol": "VOLTAS-EQ",
+    "bseTradingSymbol": "VOLTAS"
+  },
+  {
+    "searchId": "bank-of-maharashtra",
+    "growwCompanyId": "GSTK532525",
+    "nseScriptCode": "MAHABANK",
+    "bseScriptCode": "532525",
+    "nseTradingSymbol": "MAHABANK-EQ",
+    "bseTradingSymbol": "MAHABANK"
+  },
+  {
+    "searchId": "indian-renewable-energy-development-agency-ltd-1569588972606",
+    "growwCompanyId": "GSTK544026",
+    "nseScriptCode": "IREDA",
+    "bseScriptCode": "544026",
+    "nseTradingSymbol": "IREDA-EQ",
+    "bseTradingSymbol": "IREDA"
+  },
+  {
+    "searchId": "jubilant-foodworks-ltd",
+    "growwCompanyId": "GSTK533155",
+    "nseScriptCode": "JUBLFOOD",
+    "bseScriptCode": "533155",
+    "nseTradingSymbol": "JUBLFOOD-EQ",
+    "bseTradingSymbol": "JUBLFOOD"
+  },
+  {
+    "searchId": "odisha-cement-ltd",
+    "growwCompanyId": "GSTK542216",
+    "nseScriptCode": "DALBHARAT",
+    "bseScriptCode": "542216",
+    "nseTradingSymbol": "DALBHARAT-EQ",
+    "bseTradingSymbol": "DALBHARAT"
+  },
+  {
+    "searchId": "crisil-ltd",
+    "growwCompanyId": "GSTK500092",
+    "nseScriptCode": "CRISIL",
+    "bseScriptCode": "500092",
+    "nseTradingSymbol": "CRISIL-EQ",
+    "bseTradingSymbol": "CRISIL"
+  },
+  {
+    "searchId": "kpr-mill-ltd",
+    "growwCompanyId": "GSTK532889",
+    "nseScriptCode": "KPRMILL",
+    "bseScriptCode": "532889",
+    "nseTradingSymbol": "KPRMILL-EQ",
+    "bseTradingSymbol": "KPRMILL"
+  },
+  {
+    "searchId": "anthem-biosciences-ltd",
+    "growwCompanyId": "GSTK544449",
+    "nseScriptCode": "ANTHEM",
+    "bseScriptCode": "544449",
+    "nseTradingSymbol": "ANTHEM-EQ",
+    "bseTradingSymbol": "ANTHEM"
+  },
+  {
+    "searchId": "procter-gamble-hygiene-health-care-ltd",
+    "growwCompanyId": "GSTK500459",
+    "nseScriptCode": "PGHH",
+    "bseScriptCode": "500459",
+    "nseTradingSymbol": "PGHH-EQ",
+    "bseTradingSymbol": "PGHH"
+  },
+  {
+    "searchId": "multi-commodity-exchange-of-india-ltd",
+    "growwCompanyId": "GSTK534091",
+    "nseScriptCode": "MCX",
+    "bseScriptCode": "534091",
+    "nseTradingSymbol": "MCX-EQ",
+    "bseTradingSymbol": "MCX"
+  },
+  {
+    "searchId": "narayana-hrudayalaya-ltd",
+    "growwCompanyId": "GSTK539551",
+    "nseScriptCode": "NH",
+    "bseScriptCode": "539551",
+    "nseTradingSymbol": "NH-EQ",
+    "bseTradingSymbol": "NH"
+  },
+  {
+    "searchId": "suven-pharmaceuticals-ltd",
+    "growwCompanyId": "GSTK543064",
+    "nseScriptCode": "COHANCE",
+    "bseScriptCode": "543064",
+    "nseTradingSymbol": "COHANCE-EQ",
+    "bseTradingSymbol": "COHANCE"
+  },
+  {
+    "searchId": "astral-poly-technik-ltd",
+    "growwCompanyId": "GSTK532830",
+    "nseScriptCode": "ASTRAL",
+    "bseScriptCode": "532830",
+    "nseTradingSymbol": "ASTRAL-EQ",
+    "bseTradingSymbol": "ASTRAL"
+  },
+  {
+    "searchId": "inox-fluorochemicals-ltd",
+    "growwCompanyId": "GSTK542812",
+    "nseScriptCode": "FLUOROCHEM",
+    "bseScriptCode": "542812",
+    "nseTradingSymbol": "FLUOROCHEM-EQ",
+    "bseTradingSymbol": "FLUOROCHEM"
+  },
+  {
+    "searchId": "ipca-laboratories-ltd",
+    "growwCompanyId": "GSTK524494",
+    "nseScriptCode": "IPCALAB",
+    "bseScriptCode": "524494",
+    "nseTradingSymbol": "IPCALAB-EQ",
+    "bseTradingSymbol": "IPCALAB"
+  },
+  {
+    "searchId": "sjvn-ltd",
+    "growwCompanyId": "GSTK533206",
+    "nseScriptCode": "SJVN",
+    "bseScriptCode": "533206",
+    "nseTradingSymbol": "SJVN-EQ",
+    "bseTradingSymbol": "SJVN"
+  },
+  {
+    "searchId": "tata-elxsi-ltd",
+    "growwCompanyId": "GSTK500408",
+    "nseScriptCode": "TATAELXSI",
+    "bseScriptCode": "500408",
+    "nseTradingSymbol": "TATAELXSI-EQ",
+    "bseTradingSymbol": "TATAELXSI"
+  },
+  {
+    "searchId": "uco-bank",
+    "growwCompanyId": "GSTK532505",
+    "nseScriptCode": "UCOBANK",
+    "bseScriptCode": "532505",
+    "nseTradingSymbol": "UCOBANK-EQ",
+    "bseTradingSymbol": "UCOBANK"
+  },
+  {
+    "searchId": "escorts-ltd",
+    "growwCompanyId": "GSTK500495",
+    "nseScriptCode": "ESCORTS",
+    "bseScriptCode": "500495",
+    "nseTradingSymbol": "ESCORTS-EQ",
+    "bseTradingSymbol": "ESCORTS"
+  },
+  {
+    "searchId": "ti-financial-holdings-ltd",
+    "growwCompanyId": "GSTK504973",
+    "nseScriptCode": "CHOLAHLDNG",
+    "bseScriptCode": "504973",
+    "nseTradingSymbol": "CHOLAHLDNG-EQ",
+    "bseTradingSymbol": "CHOLAHLDNG"
+  },
+  {
+    "searchId": "godrej-industries-ltd",
+    "growwCompanyId": "GSTK500164",
+    "nseScriptCode": "GODREJIND",
+    "bseScriptCode": "500164",
+    "nseTradingSymbol": "GODREJIND-EQ",
+    "bseTradingSymbol": "GODREJIND"
+  },
+  {
+    "searchId": "kaynes-technology-india-ltd",
+    "growwCompanyId": "GSTK543664",
+    "nseScriptCode": "KAYNES",
+    "bseScriptCode": "543664",
+    "nseTradingSymbol": "KAYNES-EQ",
+    "bseTradingSymbol": "KAYNES"
+  },
+  {
+    "searchId": "kei-industries-ltd",
+    "growwCompanyId": "GSTK517569",
+    "nseScriptCode": "KEI",
+    "bseScriptCode": "517569",
+    "nseTradingSymbol": "KEI-EQ",
+    "bseTradingSymbol": "KEI"
+  },
+  {
+    "searchId": "endurance-technologies-ltd",
+    "growwCompanyId": "GSTK540153",
+    "nseScriptCode": "ENDURANCE",
+    "bseScriptCode": "540153",
+    "nseTradingSymbol": "ENDURANCE-EQ",
+    "bseTradingSymbol": "ENDURANCE"
+  },
+  {
+    "searchId": "apar-industries-ltd",
+    "growwCompanyId": "GSTK532259",
+    "nseScriptCode": "APARINDS",
+    "bseScriptCode": "532259",
+    "nseTradingSymbol": "APARINDS-EQ",
+    "bseTradingSymbol": "APARINDS"
+  },
+  {
+    "searchId": "national-aluminium-company-ltd",
+    "growwCompanyId": "GSTK532234",
+    "nseScriptCode": "NATIONALUM",
+    "bseScriptCode": "532234",
+    "nseTradingSymbol": "NATIONALUM-EQ",
+    "bseTradingSymbol": "NATIONALUM"
+  },
+  {
+    "searchId": "radico-khaitan-ltd",
+    "growwCompanyId": "GSTK532497",
+    "nseScriptCode": "RADICO",
+    "bseScriptCode": "532497",
+    "nseTradingSymbol": "RADICO-EQ",
+    "bseTradingSymbol": "RADICO"
+  },
+  {
+    "searchId": "blue-star-ltd",
+    "growwCompanyId": "GSTK500067",
+    "nseScriptCode": "BLUESTARCO",
+    "bseScriptCode": "500067",
+    "nseTradingSymbol": "BLUESTARCO-EQ",
+    "bseTradingSymbol": "BLUESTARCO"
+  },
+  {
+    "searchId": "mahindra-mahindra-financial-services-ltd",
+    "growwCompanyId": "GSTK532720",
+    "nseScriptCode": "M&MFIN",
+    "bseScriptCode": "532720",
+    "nseTradingSymbol": "M&MFIN-EQ",
+    "bseTradingSymbol": "M&MFIN"
+  },
+  {
+    "searchId": "adani-wilmar-ltd",
+    "growwCompanyId": "GSTK543458",
+    "nseScriptCode": "AWL",
+    "bseScriptCode": "543458",
+    "nseTradingSymbol": "AWL-EQ",
+    "bseTradingSymbol": "AWL"
+  },
+  {
+    "searchId": "m-india-ltd",
+    "growwCompanyId": "GSTK523395",
+    "nseScriptCode": "3MINDIA",
+    "bseScriptCode": "523395",
+    "nseTradingSymbol": "3MINDIA-EQ",
+    "bseTradingSymbol": "3MINDIA"
+  },
+  {
+    "searchId": "gillette-india-ltd",
+    "growwCompanyId": "GSTK507815",
+    "nseScriptCode": "GILLETTE",
+    "bseScriptCode": "507815",
+    "nseTradingSymbol": "GILLETTE-EQ",
+    "bseTradingSymbol": "GILLETTE"
+  },
+  {
+    "searchId": "global-health-ltd",
+    "growwCompanyId": "GSTK543654",
+    "nseScriptCode": "MEDANTA",
+    "bseScriptCode": "543654",
+    "nseTradingSymbol": "MEDANTA-EQ",
+    "bseTradingSymbol": "MEDANTA"
+  },
+  {
+    "searchId": "acc-ltd",
+    "growwCompanyId": "GSTK500410",
+    "nseScriptCode": "ACC",
+    "bseScriptCode": "500410",
+    "nseTradingSymbol": "ACC-EQ",
+    "bseTradingSymbol": "ACC"
+  },
+  {
+    "searchId": "honeywell-automation-india-ltd",
+    "growwCompanyId": "GSTK517174",
+    "nseScriptCode": "HONAUT",
+    "bseScriptCode": "517174",
+    "nseTradingSymbol": "HONAUT-EQ",
+    "bseTradingSymbol": "HONAUT"
+  },
+  {
+    "searchId": "ajanta-pharma-ltd",
+    "growwCompanyId": "GSTK532331",
+    "nseScriptCode": "AJANTPHARM",
+    "bseScriptCode": "532331",
+    "nseTradingSymbol": "AJANTPHARM-EQ",
+    "bseTradingSymbol": "AJANTPHARM"
+  },
+  {
+    "searchId": "kpit-engineering-ltd",
+    "growwCompanyId": "GSTK542651",
+    "nseScriptCode": "KPITTECH",
+    "bseScriptCode": "542651",
+    "nseTradingSymbol": "KPITTECH-EQ",
+    "bseTradingSymbol": "KPITTECH"
+  },
+  {
+    "searchId": "tata-investment-corporation-ltd",
+    "growwCompanyId": "GSTK501301",
+    "nseScriptCode": "TATAINVEST",
+    "bseScriptCode": "501301",
+    "nseTradingSymbol": "TATAINVEST-EQ",
+    "bseTradingSymbol": "TATAINVEST"
+  },
+  {
+    "searchId": "central-bank-of-india",
+    "growwCompanyId": "GSTK532885",
+    "nseScriptCode": "CENTRALBK",
+    "bseScriptCode": "532885",
+    "nseTradingSymbol": "CENTRALBK-EQ",
+    "bseTradingSymbol": "CENTRALBK"
+  },
+  {
+    "searchId": "nlc-india-ltd",
+    "growwCompanyId": "GSTK513683",
+    "nseScriptCode": "NLCINDIA",
+    "bseScriptCode": "513683",
+    "nseTradingSymbol": "NLCINDIA-EQ",
+    "bseTradingSymbol": "NLCINDIA"
+  },
+  {
+    "searchId": "lic-housing-finance-ltd",
+    "growwCompanyId": "GSTK500253",
+    "nseScriptCode": "LICHSGFIN",
+    "bseScriptCode": "500253",
+    "nseTradingSymbol": "LICHSGFIN-EQ",
+    "bseTradingSymbol": "LICHSGFIN"
+  },
+  {
+    "searchId": "magma-fincorp-ltd",
+    "growwCompanyId": "GSTK524000",
+    "nseScriptCode": "POONAWALLA",
+    "bseScriptCode": "524000",
+    "nseTradingSymbol": "POONAWALLA-EQ",
+    "bseTradingSymbol": "POONAWALLA"
+  },
+  {
+    "searchId": "inox-wind-ltd",
+    "growwCompanyId": "GSTK539083",
+    "nseScriptCode": "INOXWIND",
+    "bseScriptCode": "539083",
+    "nseTradingSymbol": "INOXWIND-EQ",
+    "bseTradingSymbol": "INOXWIND"
+  },
+  {
+    "searchId": "exide-industries-ltd",
+    "growwCompanyId": "GSTK500086",
+    "nseScriptCode": "EXIDEIND",
+    "bseScriptCode": "500086",
+    "nseTradingSymbol": "EXIDEIND-EQ",
+    "bseTradingSymbol": "EXIDEIND"
+  },
+  {
+    "searchId": "gland-pharma-ltd",
+    "growwCompanyId": "GSTK543245",
+    "nseScriptCode": "GLAND",
+    "bseScriptCode": "543245",
+    "nseTradingSymbol": "GLAND-EQ",
+    "bseTradingSymbol": "GLAND"
+  },
+  {
+    "searchId": "go-digit-general-insurance-ltd",
+    "growwCompanyId": "GSTK544179",
+    "nseScriptCode": "GODIGIT",
+    "bseScriptCode": "544179",
+    "nseTradingSymbol": "GODIGIT-EQ",
+    "bseTradingSymbol": "GODIGIT"
+  },
+  {
+    "searchId": "metro-brands-ltd",
+    "growwCompanyId": "GSTK543426",
+    "nseScriptCode": "METROBRAND",
+    "bseScriptCode": "543426",
+    "nseTradingSymbol": "METROBRAND-EQ",
+    "bseTradingSymbol": "METROBRAND"
+  },
+  {
+    "searchId": "delhivery-ltd",
+    "growwCompanyId": "GSTK543529",
+    "nseScriptCode": "DELHIVERY",
+    "bseScriptCode": "543529",
+    "nseTradingSymbol": "DELHIVERY-EQ",
+    "bseTradingSymbol": "DELHIVERY"
+  },
+  {
+    "searchId": "gujarat-gas-ltd",
+    "growwCompanyId": "GSTK539336",
+    "nseScriptCode": "GUJGASLTD",
+    "bseScriptCode": "539336",
+    "nseTradingSymbol": "GUJGASLTD-EQ",
+    "bseTradingSymbol": "GUJGASLTD"
+  },
+  {
+    "searchId": "krishna-institute-of-medical-sciences-ltd",
+    "growwCompanyId": "GSTK543308",
+    "nseScriptCode": "KIMS",
+    "bseScriptCode": "543308",
+    "nseTradingSymbol": "KIMS-EQ",
+    "bseTradingSymbol": "KIMS"
+  },
+  {
+    "searchId": "aia-engineering-ltd",
+    "growwCompanyId": "GSTK532683",
+    "nseScriptCode": "AIAENG",
+    "bseScriptCode": "532683",
+    "nseTradingSymbol": "AIAENG-EQ",
+    "bseTradingSymbol": "AIAENG"
+  },
+  {
+    "searchId": "aster-dm-healthcare-ltd",
+    "growwCompanyId": "GSTK540975",
+    "nseScriptCode": "ASTERDM",
+    "bseScriptCode": "540975",
+    "nseTradingSymbol": "ASTERDM-EQ",
+    "bseTradingSymbol": "ASTERDM"
+  },
+  {
+    "searchId": "nbcc-india-ltd",
+    "growwCompanyId": "GSTK534309",
+    "nseScriptCode": "NBCC",
+    "bseScriptCode": "534309",
+    "nseTradingSymbol": "NBCC-EQ",
+    "bseTradingSymbol": "NBCC"
+  },
+  {
+    "searchId": "sona-blw-precision-forgings-ltd",
+    "growwCompanyId": "GSTK543300",
+    "nseScriptCode": "SONACOMS",
+    "bseScriptCode": "543300",
+    "nseTradingSymbol": "SONACOMS-EQ",
+    "bseTradingSymbol": "SONACOMS"
+  },
+  {
+    "searchId": "the-new-india-assurance-co-ltd",
+    "growwCompanyId": "GSTK540769",
+    "nseScriptCode": "NIACL",
+    "bseScriptCode": "540769",
+    "nseTradingSymbol": "NIACL-EQ",
+    "bseTradingSymbol": "NIACL"
+  },
+  {
+    "searchId": "garden-reach-shipbuilders-engineers-ltd",
+    "growwCompanyId": "GSTK542011",
+    "nseScriptCode": "GRSE",
+    "bseScriptCode": "542011",
+    "nseTradingSymbol": "GRSE-EQ",
+    "bseTradingSymbol": "GRSE"
+  },
+  {
+    "searchId": "aegis-vopak-terminals-ltd",
+    "growwCompanyId": "GSTK544407",
+    "nseScriptCode": "AEGISVOPAK",
+    "bseScriptCode": "544407",
+    "nseTradingSymbol": "AEGISVOPAK-EQ",
+    "bseTradingSymbol": "AEGISVOPAK"
+  },
+  {
+    "searchId": "bandhan-bank-ltd",
+    "growwCompanyId": "GSTK541153",
+    "nseScriptCode": "BANDHANBNK",
+    "bseScriptCode": "541153",
+    "nseTradingSymbol": "BANDHANBNK-EQ",
+    "bseTradingSymbol": "BANDHANBNK"
+  },
+  {
+    "searchId": "piramal-enterprises-ltd",
+    "growwCompanyId": "GSTK500302",
+    "nseScriptCode": "PEL",
+    "bseScriptCode": "500302",
+    "nseTradingSymbol": "PEL-EQ",
+    "bseTradingSymbol": "PEL"
+  },
+  {
+    "searchId": "sumitomo-chemical-india-ltd",
+    "growwCompanyId": "GSTK542920",
+    "nseScriptCode": "SUMICHEM",
+    "bseScriptCode": "542920",
+    "nseTradingSymbol": "SUMICHEM-EQ",
+    "bseTradingSymbol": "SUMICHEM"
+  },
+  {
+    "searchId": "iti-ltd",
+    "growwCompanyId": "GSTK523610",
+    "nseScriptCode": "ITI",
+    "bseScriptCode": "523610",
+    "nseTradingSymbol": "ITI-EQ",
+    "bseTradingSymbol": "ITI"
+  },
+  {
+    "searchId": "icici-securities-ltd",
+    "growwCompanyId": "GSTK541179",
+    "bseScriptCode": "541179",
+    "bseTradingSymbol": "ISEC"
+  },
+  {
+    "searchId": "tata-technologies-ltd",
+    "growwCompanyId": "GSTK544028",
+    "nseScriptCode": "TATATECH",
+    "bseScriptCode": "544028",
+    "nseTradingSymbol": "TATATECH-EQ",
+    "bseTradingSymbol": "TATATECH"
+  },
+  {
+    "searchId": "apollo-tyres-ltd",
+    "growwCompanyId": "GSTK500877",
+    "nseScriptCode": "APOLLOTYRE",
+    "bseScriptCode": "500877",
+    "nseTradingSymbol": "APOLLOTYRE-EQ",
+    "bseTradingSymbol": "APOLLOTYRE"
+  },
+  {
+    "searchId": "indraprastha-gas-ltd",
+    "growwCompanyId": "GSTK532514",
+    "nseScriptCode": "IGL",
+    "bseScriptCode": "532514",
+    "nseTradingSymbol": "IGL-EQ",
+    "bseTradingSymbol": "IGL"
+  },
+  {
+    "searchId": "irb-infrastructure-developers-ltd",
+    "growwCompanyId": "GSTK532947",
+    "nseScriptCode": "IRB",
+    "bseScriptCode": "532947",
+    "nseTradingSymbol": "IRB-EQ",
+    "bseTradingSymbol": "IRB"
+  },
+  {
+    "searchId": "bayer-cropscience-ltd",
+    "growwCompanyId": "GSTK506285",
+    "nseScriptCode": "BAYERCROP",
+    "bseScriptCode": "506285",
+    "nseTradingSymbol": "BAYERCROP-EQ",
+    "bseTradingSymbol": "BAYERCROP"
+  },
+  {
+    "searchId": "nuvama-wealth-management-ltd",
+    "growwCompanyId": "GSTK543988",
+    "nseScriptCode": "NUVAMA",
+    "bseScriptCode": "543988",
+    "nseTradingSymbol": "NUVAMA-EQ",
+    "bseTradingSymbol": "NUVAMA"
+  },
+  {
+    "searchId": "the-ramco-cements-ltd",
+    "growwCompanyId": "GSTK500260",
+    "nseScriptCode": "RAMCOCEM",
+    "bseScriptCode": "500260",
+    "nseTradingSymbol": "RAMCOCEM-EQ",
+    "bseTradingSymbol": "RAMCOCEM"
+  },
+  {
+    "searchId": "wockhardt-ltd",
+    "growwCompanyId": "GSTK532300",
+    "nseScriptCode": "WOCKPHARMA",
+    "bseScriptCode": "532300",
+    "nseTradingSymbol": "WOCKPHARMA-EQ",
+    "bseTradingSymbol": "WOCKPHARMA"
+  },
+  {
+    "searchId": "inventurus-knowledge-solutions-ltd",
+    "growwCompanyId": "GSTK544309",
+    "nseScriptCode": "IKS",
+    "bseScriptCode": "544309",
+    "nseTradingSymbol": "IKS-EQ",
+    "bseTradingSymbol": "IKS"
+  },
+  {
+    "searchId": "motherson-sumi-wiring-india-ltd",
+    "growwCompanyId": "GSTK543498",
+    "nseScriptCode": "MSUMI",
+    "bseScriptCode": "543498",
+    "nseTradingSymbol": "MSUMI-EQ",
+    "bseTradingSymbol": "MSUMI"
+  },
+  {
+    "searchId": "pnb-housing-finance-ltd",
+    "growwCompanyId": "GSTK540173",
+    "nseScriptCode": "PNBHOUSING",
+    "bseScriptCode": "540173",
+    "nseTradingSymbol": "PNBHOUSING-EQ",
+    "bseTradingSymbol": "PNBHOUSING"
+  },
+  {
+    "searchId": "piramal-pharma-ltd",
+    "growwCompanyId": "GSTK543635",
+    "nseScriptCode": "PPLPHARMA",
+    "bseScriptCode": "543635",
+    "nseTradingSymbol": "PPLPHARMA-EQ",
+    "bseTradingSymbol": "PPLPHARMA"
+  },
+  {
+    "searchId": "emcure-pharmaceuticals-ltd",
+    "growwCompanyId": "GSTK544210",
+    "nseScriptCode": "EMCURE",
+    "bseScriptCode": "544210",
+    "nseTradingSymbol": "EMCURE-EQ",
+    "bseTradingSymbol": "EMCURE"
+  },
+  {
+    "searchId": "syngene-international-ltd",
+    "growwCompanyId": "GSTK539268",
+    "nseScriptCode": "SYNGENE",
+    "bseScriptCode": "539268",
+    "nseTradingSymbol": "SYNGENE-EQ",
+    "bseTradingSymbol": "SYNGENE"
+  },
+  {
+    "searchId": "mangalore-refinery-petrochemicals-ltd",
+    "growwCompanyId": "GSTK500109",
+    "nseScriptCode": "MRPL",
+    "bseScriptCode": "500109",
+    "nseTradingSymbol": "MRPL-EQ",
+    "bseTradingSymbol": "MRPL"
+  },
+  {
+    "searchId": "shyam-metalics-energy-ltd",
+    "growwCompanyId": "GSTK543299",
+    "nseScriptCode": "SHYAMMETL",
+    "bseScriptCode": "543299",
+    "nseTradingSymbol": "SHYAMMETL-EQ",
+    "bseTradingSymbol": "SHYAMMETL"
+  },
+  {
+    "searchId": "jb-chemicals-pharmaceuticals-ltd",
+    "growwCompanyId": "GSTK506943",
+    "nseScriptCode": "JBCHEPHARM",
+    "bseScriptCode": "506943",
+    "nseTradingSymbol": "JBCHEPHARM-EQ",
+    "bseTradingSymbol": "JBCHEPHARM"
+  },
+  {
+    "searchId": "hindustan-copper-ltd",
+    "growwCompanyId": "GSTK513599",
+    "nseScriptCode": "HINDCOPPER",
+    "bseScriptCode": "513599",
+    "nseTradingSymbol": "HINDCOPPER-EQ",
+    "bseTradingSymbol": "HINDCOPPER"
+  },
+  {
+    "searchId": "timken-india-ltd",
+    "growwCompanyId": "GSTK522113",
+    "nseScriptCode": "TIMKEN",
+    "bseScriptCode": "522113",
+    "nseTradingSymbol": "TIMKEN-EQ",
+    "bseTradingSymbol": "TIMKEN"
+  },
+  {
+    "searchId": "aegis-logistics-ltd",
+    "growwCompanyId": "GSTK500003",
+    "nseScriptCode": "AEGISLOG",
+    "bseScriptCode": "500003",
+    "nseTradingSymbol": "AEGISLOG-EQ",
+    "bseTradingSymbol": "AEGISLOG"
+  },
+  {
+    "searchId": "reliance-power-ltd",
+    "growwCompanyId": "GSTK532939",
+    "nseScriptCode": "RPOWER",
+    "bseScriptCode": "532939",
+    "nseTradingSymbol": "RPOWER-BE",
+    "bseTradingSymbol": "RPOWER"
+  },
+  {
+    "searchId": "deepak-nitrite-ltd",
+    "growwCompanyId": "GSTK506401",
+    "nseScriptCode": "DEEPAKNTR",
+    "bseScriptCode": "506401",
+    "nseTradingSymbol": "DEEPAKNTR-EQ",
+    "bseTradingSymbol": "DEEPAKNTR"
+  },
+  {
+    "searchId": "affle-india-ltd",
+    "growwCompanyId": "GSTK542752",
+    "nseScriptCode": "AFFLE",
+    "bseScriptCode": "542752",
+    "nseTradingSymbol": "AFFLE-EQ",
+    "bseTradingSymbol": "AFFLE"
+  },
+  {
+    "searchId": "navin-fluorine-international-ltd",
+    "growwCompanyId": "GSTK532504",
+    "nseScriptCode": "NAVINFLUOR",
+    "bseScriptCode": "532504",
+    "nseTradingSymbol": "NAVINFLUOR-EQ",
+    "bseTradingSymbol": "NAVINFLUOR"
+  },
+  {
+    "searchId": "brigade-enterprises-ltd",
+    "growwCompanyId": "GSTK532929",
+    "nseScriptCode": "BRIGADE",
+    "bseScriptCode": "532929",
+    "nseTradingSymbol": "BRIGADE-EQ",
+    "bseTradingSymbol": "BRIGADE"
+  },
+  {
+    "searchId": "dr-lal-pathlabs-ltd",
+    "growwCompanyId": "GSTK539524",
+    "nseScriptCode": "LALPATHLAB",
+    "bseScriptCode": "539524",
+    "nseTradingSymbol": "LALPATHLAB-EQ",
+    "bseTradingSymbol": "LALPATHLAB"
+  },
+  {
+    "searchId": "wabco-india-ltd",
+    "growwCompanyId": "GSTK533023",
+    "nseScriptCode": "ZFCVINDIA",
+    "bseScriptCode": "533023",
+    "nseTradingSymbol": "ZFCVINDIA-EQ",
+    "bseTradingSymbol": "ZFCVINDIA"
+  },
+  {
+    "searchId": "himadri-speciality-chemical-ltd",
+    "growwCompanyId": "GSTK500184",
+    "nseScriptCode": "HSCL",
+    "bseScriptCode": "500184",
+    "nseTradingSymbol": "HSCL-EQ",
+    "bseTradingSymbol": "HSCL"
+  },
+  {
+    "searchId": "angel-broking-ltd",
+    "growwCompanyId": "GSTK543235",
+    "nseScriptCode": "ANGELONE",
+    "bseScriptCode": "543235",
+    "nseTradingSymbol": "ANGELONE-EQ",
+    "bseTradingSymbol": "ANGELONE"
+  },
+  {
+    "searchId": "star-health-and-allied-insurance-company-ltd",
+    "growwCompanyId": "GSTK543412",
+    "nseScriptCode": "STARHEALTH",
+    "bseScriptCode": "543412",
+    "nseTradingSymbol": "STARHEALTH-EQ",
+    "bseTradingSymbol": "STARHEALTH"
+  },
+  {
+    "searchId": "emami-ltd",
+    "growwCompanyId": "GSTK531162",
+    "nseScriptCode": "EMAMILTD",
+    "bseScriptCode": "531162",
+    "nseTradingSymbol": "EMAMILTD-EQ",
+    "bseTradingSymbol": "EMAMILTD"
+  },
+  {
+    "searchId": "force-motors-ltd",
+    "growwCompanyId": "GSTK500033",
+    "nseScriptCode": "FORCEMOT",
+    "bseScriptCode": "500033",
+    "nseTradingSymbol": "FORCEMOT-EQ",
+    "bseTradingSymbol": "FORCEMOT"
+  }
+]

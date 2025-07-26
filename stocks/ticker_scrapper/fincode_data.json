@@ -1,0 +1,398 @@
+[
+  {
+    "symbol": "RELIANCE",
+    "fincode": 100325
+  },
+  {
+    "symbol": "HDFCBANK",
+    "fincode": 100180
+  },
+  {
+    "symbol": "BHARTIARTL",
+    "fincode": 132454
+  },
+  {
+    "symbol": "TCS",
+    "fincode": 132540
+  },
+  {
+    "symbol": "ICICIBANK",
+    "fincode": 132174
+  },
+  {
+    "symbol": "SBIN",
+    "fincode": 100112
+  },
+  {
+    "symbol": "INFY",
+    "fincode": 100209
+  },
+  {
+    "symbol": "BAJFINANCE",
+    "fincode": 100034
+  },
+  {
+    "symbol": "LICI",
+    "fincode": 217376
+  },
+  {
+    "symbol": "HINDUNILVR",
+    "fincode": 100696
+  },
+  {
+    "symbol": "ITC",
+    "fincode": 100875
+  },
+  {
+    "symbol": "LT",
+    "fincode": 100510
+  },
+  {
+    "symbol": "KOTAKBANK",
+    "fincode": 100247
+  },
+  {
+    "symbol": "HCLTECH",
+    "fincode": 132281
+  },
+  {
+    "symbol": "SUNPHARMA",
+    "fincode": 124715
+  },
+  {
+    "symbol": "MARUTI",
+    "fincode": 132500
+  },
+  {
+    "symbol": "ULTRACEMCO",
+    "fincode": 132538
+  },
+  {
+    "symbol": "AXISBANK",
+    "fincode": 132215
+  },
+  {
+    "symbol": "NTPC",
+    "fincode": 132555
+  },
+  {
+    "symbol": "BAJAJFINSV",
+    "fincode": 205198
+  },
+  {
+    "symbol": "HAL",
+    "fincode": 219494
+  },
+  {
+    "symbol": "TITAN",
+    "fincode": 100114
+  },
+  {
+    "symbol": "ONGC",
+    "fincode": 100312
+  },
+  {
+    "symbol": "ADANIPORTS",
+    "fincode": 132921
+  },
+  {
+    "symbol": "ETERNAL",
+    "fincode": 252306
+  },
+  {
+    "symbol": "ADANIENT",
+    "fincode": 112599
+  },
+  {
+    "symbol": "BEL",
+    "fincode": 100049
+  },
+  {
+    "symbol": "POWERGRID",
+    "fincode": 132898
+  },
+  {
+    "symbol": "WIPRO",
+    "fincode": 107685
+  },
+  {
+    "symbol": "DMART",
+    "fincode": 223595
+  },
+  {
+    "symbol": "TATAMOTORS",
+    "fincode": 100570
+  },
+  {
+    "symbol": "JSWSTEEL",
+    "fincode": 100228
+  },
+  {
+    "symbol": "COALINDIA",
+    "fincode": 219300
+  },
+  {
+    "symbol": "BAJAJ-AUTO",
+    "fincode": 200132
+  },
+  {
+    "symbol": "INDIGO",
+    "fincode": 222055
+  },
+  {
+    "symbol": "ADANIPOWER",
+    "fincode": 209867
+  },
+  {
+    "symbol": "ASIANPAINT",
+    "fincode": 100820
+  },
+  {
+    "symbol": "NESTLEIND",
+    "fincode": 100790
+  },
+  {
+    "symbol": "IOC",
+    "fincode": 130965
+  },
+  {
+    "symbol": "DLF",
+    "fincode": 132868
+  },
+  {
+    "symbol": "TATASTEEL",
+    "fincode": 100470
+  },
+  {
+    "symbol": "JIOFIN",
+    "fincode": 229365
+  },
+  {
+    "symbol": "HINDZINC",
+    "fincode": 100188
+  },
+  {
+    "symbol": "GRASIM",
+    "fincode": 100300
+  },
+  {
+    "symbol": "TRENT",
+    "fincode": 100251
+  },
+  {
+    "symbol": "SBILIFE",
+    "fincode": 211385
+  },
+  {
+    "symbol": "IRFC",
+    "fincode": 217280
+  },
+  {
+    "symbol": "VEDL",
+    "fincode": 100295
+  },
+  {
+    "symbol": "DIVISLAB",
+    "fincode": 132488
+  },
+  {
+    "symbol": "HYUNDAI",
+    "fincode": 208361
+  },
+  {
+    "symbol": "ADANIGREEN",
+    "fincode": 289554
+  },
+  {
+    "symbol": "VBL",
+    "fincode": 209550
+  },
+  {
+    "symbol": "HDFCLIFE",
+    "fincode": 217389
+  },
+  {
+    "symbol": "BAJAJHLDNG",
+    "fincode": 100490
+  },
+  {
+    "symbol": "HINDALCO",
+    "fincode": 100440
+  },
+  {
+    "symbol": "LTIM",
+    "fincode": 216156
+  },
+  {
+    "symbol": "AMBUJACEM",
+    "fincode": 100425
+  },
+  {
+    "symbol": "EICHERMOT",
+    "fincode": 105200
+  },
+  {
+    "symbol": "BPCL",
+    "fincode": 100547
+  },
+  {
+    "symbol": "PIDILITIND",
+    "fincode": 100331
+  },
+  {
+    "symbol": "TECHM",
+    "fincode": 132755
+  },
+  {
+    "symbol": "PFC",
+    "fincode": 132810
+  },
+  {
+    "symbol": "BRITANNIA",
+    "fincode": 100825
+  },
+  {
+    "symbol": "SOLARINDS",
+    "fincode": 132725
+  },
+  {
+    "symbol": "TVSMOTOR",
+    "fincode": 132343
+  },
+  {
+    "symbol": "LODHA",
+    "fincode": 219442
+  },
+  {
+    "symbol": "CHOLAFIN",
+    "fincode": 111243
+  },
+  {
+    "symbol": "TATAPOWER",
+    "fincode": 100400
+  },
+  {
+    "symbol": "BANKBARODA",
+    "fincode": 132134
+  },
+  {
+    "symbol": "PNB",
+    "fincode": 132461
+  },
+  {
+    "symbol": "GODREJCP",
+    "fincode": 132424
+  },
+  {
+    "symbol": "GAIL",
+    "fincode": 132155
+  },
+  {
+    "symbol": "MAXHEALTH",
+    "fincode": 218071
+  },
+  {
+    "symbol": "ABB",
+    "fincode": 100002
+  },
+  {
+    "symbol": "CIPLA",
+    "fincode": 100087
+  },
+  {
+    "symbol": "MAZDOCK",
+    "fincode": 219700
+  },
+  {
+    "symbol": "SHRIRAMFIN",
+    "fincode": 111218
+  },
+  {
+    "symbol": "TORNTPHARM",
+    "fincode": 100420
+  },
+  {
+    "symbol": "HDFCAMC",
+    "fincode": 208280
+  },
+  {
+    "symbol": "SHREECEM",
+    "fincode": 100387
+  },
+  {
+    "symbol": "BOSCHLTD",
+    "fincode": 100530
+  },
+  {
+    "symbol": "SIEMENS",
+    "fincode": 100550
+  },
+  {
+    "symbol": "UNIONBANK",
+    "fincode": 132477
+  },
+  {
+    "symbol": "MOTHERSON",
+    "fincode": 117334
+  },
+  {
+    "symbol": "INDUSTOWER",
+    "fincode": 209967
+  },
+  {
+    "symbol": "INDHOTEL",
+    "fincode": 100850
+  },
+  {
+    "symbol": "CGPOWER",
+    "fincode": 100093
+  },
+  {
+    "symbol": "ENRIN",
+    "fincode": 320028
+  },
+  {
+    "symbol": "MUTHOOTFIN",
+    "fincode": 221790
+  },
+  {
+    "symbol": "MANKIND",
+    "fincode": 211840
+  },
+  {
+    "symbol": "RECLTD",
+    "fincode": 200055
+  },
+  {
+    "symbol": "TATACONSUM",
+    "fincode": 100800
+  },
+  {
+    "symbol": "APOLLOHOSP",
+    "fincode": 108869
+  },
+  {
+    "symbol": "DRREDDY",
+    "fincode": 100124
+  },
+  {
+    "symbol": "SWIGGY",
+    "fincode": 293862
+  },
+  {
+    "symbol": "IDBI",
+    "fincode": 100116
+  },
+  {
+    "symbol": "CANBK",
+    "fincode": 132483
+  },
+  {
+    "symbol": "POLYCAB",
+    "fincode": 211337
+  },
+  {
+    "symbol": "ADANIENSOL",
+    "fincode": 271875
+  }
+]

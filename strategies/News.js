@@ -1,12 +1,11 @@
-const watchlist = require('../stocks/watchlist.json');
+
 const config = require('../utils/frequencies');
-const fincode = require('../stocks/fincode.json');
-const stockCodeGroww = require('../stocks/stock_code_groww.json');
+const data = require("../stocks/data.json")
 const { getFinologyNewsList, getGrowwNews } = require('../apis/news');
 const { getPeers } = require('../apis/peers');
 const { analyzeNewsWithContext } = require('../utils/llm');
 
-const inLast = 6000;
+var inLast = 10;
 function isPublishedInLastMin(dateObj) {
     const now = new Date();
     const threshold = new Date(now.getTime() - inLast * 60 * 1000);
@@ -18,27 +17,37 @@ function parseFinologyNewsDate(newsDate, newsTime) {
 function parseGrowwNewsDate(pubDate) {
     return new Date(pubDate);
 }
-async function analyzeNewsStrategy() {
-    for (const stock of watchlist) {
-        const fincodeValue = fincode[stock];
-        const stockCodeGrowwValue = stockCodeGroww[stock];
+async function analyzeNewsStrategy(gap) {
+    inLast = gap;
+    var index = 0;
+    for (const stock of data) {
+        if(index >= 50){
+            break
+        }
+        index++;
+        const stockSymbol = stock.symbol;
+        const stockCodeGrowwValue = stock.growwCompanyId
+        const fincodeValue = stock.fincode
         if (!fincodeValue || !stockCodeGrowwValue) {
-            console.warn(`⚠️ Skipping ${stock}: Missing fincode or stock code`);
             continue;
         }
         try {
             const finologyNewsList = await getFinologyNewsList(fincodeValue);
             const growwNews = await getGrowwNews(stockCodeGrowwValue);
-            const recentFinologyNews = finologyNewsList?.filter(item => {
-                const dateObj = parseFinologyNewsDate(item.Newsdate, item.NewsTime);
-                return isPublishedInLastMin(dateObj);
-            });
             const recentGrowwNews = growwNews?.filter(item => {
                 const dateObj = parseGrowwNewsDate(item.pubDate);
                 return isPublishedInLastMin(dateObj);
             });
+            // console.log("groww news", recentGrowwNews)
+            if(recentGrowwNews?.length === 0) {
+                // console.warn(`⚠️ No recent news found for ${stockSymbol}`);
+                continue;
+            }
+            const recentFinologyNews = finologyNewsList?.filter(item => {
+                const dateObj = parseFinologyNewsDate(item.Newsdate, item.NewsTime);
+                return isPublishedInLastMin(dateObj);
+            });
             if ((recentFinologyNews?.length ?? 0) === 0 && (recentGrowwNews?.length ?? 0) === 0) {
-                console.log(`📄 No recent news for ${stock} in the last ${inLast} minutes.`);
                 continue;
             }
             const fundamentals = await getPeers(fincodeValue);
@@ -46,14 +55,14 @@ async function analyzeNewsStrategy() {
             const growwText = recentGrowwNews.map(item => item.summary).join('\n\n');
             const combinedNews = [finologyText, growwText].filter(Boolean).join('\n\n');
             const result = {
-                stock,
+                stockSymbol,
                 recent_news: combinedNews,
                 fundamental: fundamentals[0],
                 fundamentals_peers: fundamentals.slice(1),
             };
             void analyzeNewsWithContext(result);
         } catch (error) {
-            console.error(`❌ Error processing ${stock}:`, error);
+            console.error(`❌ Error processing ${stockSymbol}:`, error);
             continue;
         }
     }

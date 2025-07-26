@@ -24,9 +24,9 @@ You are an expert financial analyst. Your job is to assess a company's recent ne
 
 Follow this output format as JSON:
 {
-  "sentiment": "positive | negative | neutral",
   "insights": ["key observation 1", "key observation 2", "..."],
-  "recommendation": "buy | sell | hold"
+  "sentiment": "positive | negative | neutral",
+  "recommendation": "strong_buy | buy | hold | sell | strong_sell"
 }
 
 Be specific and data-driven. Use financial ratios (PE, PB, ROE, ROCE, etc.), net profits, and peer benchmarks to support your analysis.
@@ -83,7 +83,6 @@ ${userPrompt.trim()}
   };
   try {
     const command = new InvokeModelCommand(params);
-    console.log('🔍 Sending request to Bedrock LLM...');
     const response = await client.send(command);
     const responseBody = JSON.parse(new TextDecoder().decode(response.body));
     const generation = responseBody.generation;
@@ -113,7 +112,6 @@ ${userPrompt.trim()}
         <i>Generated at ${new Date().toLocaleString('en-IN', { timeZone: 'Asia/Kolkata' })}</i>
             `.trim();
     await sendTelegramMessage(message);
-    // console.log(`✅ Notification sent for ${content.fundamental.SYMBOL}`);
 }
   } catch (error) {
     console.error('❌ Bedrock Error:', error);

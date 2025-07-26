@@ -1,0 +1,695 @@
+[
+  {
+    "symbol": "RELIANCE",
+    "fincode": 100325,
+    "bseScriptCode": "500325",
+    "nseScriptCode": "RELIANCE",
+    "growwCompanyId": "GSTK500325"
+  },
+  {
+    "symbol": "HDFCBANK",
+    "fincode": 100180,
+    "bseScriptCode": "500180",
+    "nseScriptCode": "HDFCBANK",
+    "growwCompanyId": "GSTK500180"
+  },
+  {
+    "symbol": "BHARTIARTL",
+    "fincode": 132454,
+    "bseScriptCode": "532454",
+    "nseScriptCode": "BHARTIARTL",
+    "growwCompanyId": "GSTK532454"
+  },
+  {
+    "symbol": "TCS",
+    "fincode": 132540,
+    "bseScriptCode": "532540",
+    "nseScriptCode": "TCS",
+    "growwCompanyId": "GSTK532540"
+  },
+  {
+    "symbol": "ICICIBANK",
+    "fincode": 132174,
+    "bseScriptCode": "532174",
+    "nseScriptCode": "ICICIBANK",
+    "growwCompanyId": "GSTK532174"
+  },
+  {
+    "symbol": "SBIN",
+    "fincode": 100112,
+    "bseScriptCode": "500112",
+    "nseScriptCode": "SBIN",
+    "growwCompanyId": "GSTK500112"
+  },
+  {
+    "symbol": "INFY",
+    "fincode": 100209,
+    "bseScriptCode": "500209",
+    "nseScriptCode": "INFY",
+    "growwCompanyId": "GSTK500209"
+  },
+  {
+    "symbol": "BAJFINANCE",
+    "fincode": 100034,
+    "bseScriptCode": "500034",
+    "nseScriptCode": "BAJFINANCE",
+    "growwCompanyId": "GSTK500034"
+  },
+  {
+    "symbol": "LICI",
+    "fincode": 217376,
+    "bseScriptCode": "543526",
+    "nseScriptCode": "LICI",
+    "growwCompanyId": "GSTK543526"
+  },
+  {
+    "symbol": "HINDUNILVR",
+    "fincode": 100696,
+    "bseScriptCode": "500696",
+    "nseScriptCode": "HINDUNILVR",
+    "growwCompanyId": "GSTK500696"
+  },
+  {
+    "symbol": "ITC",
+    "fincode": 100875,
+    "bseScriptCode": "500875",
+    "nseScriptCode": "ITC",
+    "growwCompanyId": "GSTK500875"
+  },
+  {
+    "symbol": "LT",
+    "fincode": 100510,
+    "bseScriptCode": "500510",
+    "nseScriptCode": "LT",
+    "growwCompanyId": "GSTK500510"
+  },
+  {
+    "symbol": "KOTAKBANK",
+    "fincode": 100247,
+    "bseScriptCode": "500247",
+    "nseScriptCode": "KOTAKBANK",
+    "growwCompanyId": "GSTK500247"
+  },
+  {
+    "symbol": "HCLTECH",
+    "fincode": 132281,
+    "bseScriptCode": "532281",
+    "nseScriptCode": "HCLTECH",
+    "growwCompanyId": "GSTK532281"
+  },
+  {
+    "symbol": "SUNPHARMA",
+    "fincode": 124715,
+    "bseScriptCode": "524715",
+    "nseScriptCode": "SUNPHARMA",
+    "growwCompanyId": "GSTK524715"
+  },
+  {
+    "symbol": "MARUTI",
+    "fincode": 132500,
+    "bseScriptCode": "532500",
+    "nseScriptCode": "MARUTI",
+    "growwCompanyId": "GSTK532500"
+  },
+  {
+    "symbol": "ULTRACEMCO",
+    "fincode": 132538,
+    "bseScriptCode": "532538",
+    "nseScriptCode": "ULTRACEMCO",
+    "growwCompanyId": "GSTK532538"
+  },
+  {
+    "symbol": "AXISBANK",
+    "fincode": 132215,
+    "bseScriptCode": "532215",
+    "nseScriptCode": "AXISBANK",
+    "growwCompanyId": "GSTK532215"
+  },
+  {
+    "symbol": "NTPC",
+    "fincode": 132555,
+    "bseScriptCode": "532555",
+    "nseScriptCode": "NTPC",
+    "growwCompanyId": "GSTK532555"
+  },
+  {
+    "symbol": "BAJAJFINSV",
+    "fincode": 205198,
+    "bseScriptCode": "532978",
+    "nseScriptCode": "BAJAJFINSV",
+    "growwCompanyId": "GSTK532978"
+  },
+  {
+    "symbol": "HAL",
+    "fincode": 219494,
+    "bseScriptCode": "541154",
+    "nseScriptCode": "HAL",
+    "growwCompanyId": "GSTK541154"
+  },
+  {
+    "symbol": "TITAN",
+    "fincode": 100114,
+    "bseScriptCode": "500114",
+    "nseScriptCode": "TITAN",
+    "growwCompanyId": "GSTK500114"
+  },
+  {
+    "symbol": "ONGC",
+    "fincode": 100312,
+    "bseScriptCode": "500312",
+    "nseScriptCode": "ONGC",
+    "growwCompanyId": "GSTK500312"
+  },
+  {
+    "symbol": "ADANIPORTS",
+    "fincode": 132921,
+    "bseScriptCode": "532921",
+    "nseScriptCode": "ADANIPORTS",
+    "growwCompanyId": "GSTK532921"
+  },
+  {
+    "symbol": "ETERNAL",
+    "fincode": 252306,
+    "bseScriptCode": "543320",
+    "nseScriptCode": "ETERNAL",
+    "growwCompanyId": "GSTK543320"
+  },
+  {
+    "symbol": "ADANIENT",
+    "fincode": 112599,
+    "bseScriptCode": "512599",
+    "nseScriptCode": "ADANIENT",
+    "growwCompanyId": "GSTK512599"
+  },
+  {
+    "symbol": "BEL",
+    "fincode": 100049,
+    "bseScriptCode": "500049",
+    "nseScriptCode": "BEL",
+    "growwCompanyId": "GSTK500049"
+  },
+  {
+    "symbol": "POWERGRID",
+    "fincode": 132898,
+    "bseScriptCode": "532898",
+    "nseScriptCode": "POWERGRID",
+    "growwCompanyId": "GSTK532898"
+  },
+  {
+    "symbol": "WIPRO",
+    "fincode": 107685,
+    "bseScriptCode": "507685",
+    "nseScriptCode": "WIPRO",
+    "growwCompanyId": "GSTK507685"
+  },
+  {
+    "symbol": "DMART",
+    "fincode": 223595,
+    "bseScriptCode": "540376",
+    "nseScriptCode": "DMART",
+    "growwCompanyId": "GSTK540376"
+  },
+  {
+    "symbol": "TATAMOTORS",
+    "fincode": 100570,
+    "bseScriptCode": "500570",
+    "nseScriptCode": "TATAMOTORS",
+    "growwCompanyId": "GSTK500570"
+  },
+  {
+    "symbol": "JSWSTEEL",
+    "fincode": 100228,
+    "bseScriptCode": "500228",
+    "nseScriptCode": "JSWSTEEL",
+    "growwCompanyId": "GSTK500228"
+  },
+  {
+    "symbol": "COALINDIA",
+    "fincode": 219300,
+    "bseScriptCode": "533278",
+    "nseScriptCode": "COALINDIA",
+    "growwCompanyId": "GSTK533278"
+  },
+  {
+    "symbol": "BAJAJ-AUTO",
+    "fincode": 200132,
+    "bseScriptCode": "532977",
+    "nseScriptCode": "BAJAJ-AUTO",
+    "growwCompanyId": "GSTK532977"
+  },
+  {
+    "symbol": "INDIGO",
+    "fincode": 222055,
+    "bseScriptCode": "539448",
+    "nseScriptCode": "INDIGO",
+    "growwCompanyId": "GSTK539448"
+  },
+  {
+    "symbol": "ADANIPOWER",
+    "fincode": 209867,
+    "bseScriptCode": "533096",
+    "nseScriptCode": "ADANIPOWER",
+    "growwCompanyId": "GSTK533096"
+  },
+  {
+    "symbol": "ASIANPAINT",
+    "fincode": 100820,
+    "bseScriptCode": "500820",
+    "nseScriptCode": "ASIANPAINT",
+    "growwCompanyId": "GSTK500820"
+  },
+  {
+    "symbol": "NESTLEIND",
+    "fincode": 100790,
+    "bseScriptCode": "500790",
+    "nseScriptCode": "NESTLEIND",
+    "growwCompanyId": "GSTK500790"
+  },
+  {
+    "symbol": "IOC",
+    "fincode": 130965,
+    "bseScriptCode": "530965",
+    "nseScriptCode": "IOC",
+    "growwCompanyId": "GSTK530965"
+  },
+  {
+    "symbol": "DLF",
+    "fincode": 132868,
+    "bseScriptCode": "532868",
+    "nseScriptCode": "DLF",
+    "growwCompanyId": "GSTK532868"
+  },
+  {
+    "symbol": "TATASTEEL",
+    "fincode": 100470,
+    "bseScriptCode": "500470",
+    "nseScriptCode": "TATASTEEL",
+    "growwCompanyId": "GSTK500470"
+  },
+  {
+    "symbol": "JIOFIN",
+    "fincode": 229365,
+    "bseScriptCode": "543940",
+    "nseScriptCode": "JIOFIN",
+    "growwCompanyId": "GSTK543940"
+  },
+  {
+    "symbol": "HINDZINC",
+    "fincode": 100188,
+    "bseScriptCode": "500188",
+    "nseScriptCode": "HINDZINC",
+    "growwCompanyId": "GSTK500188"
+  },
+  {
+    "symbol": "GRASIM",
+    "fincode": 100300,
+    "bseScriptCode": "500300",
+    "nseScriptCode": "GRASIM",
+    "growwCompanyId": "GSTK500300"
+  },
+  {
+    "symbol": "TRENT",
+    "fincode": 100251,
+    "bseScriptCode": "500251",
+    "nseScriptCode": "TRENT",
+    "growwCompanyId": "GSTK500251"
+  },
+  {
+    "symbol": "SBILIFE",
+    "fincode": 211385,
+    "bseScriptCode": "540719",
+    "nseScriptCode": "SBILIFE",
+    "growwCompanyId": "GSTK540719"
+  },
+  {
+    "symbol": "IRFC",
+    "fincode": 217280,
+    "bseScriptCode": "543257",
+    "nseScriptCode": "IRFC",
+    "growwCompanyId": "GSTK543257"
+  },
+  {
+    "symbol": "VEDL",
+    "fincode": 100295,
+    "bseScriptCode": "500295",
+    "nseScriptCode": "VEDL",
+    "growwCompanyId": "GSTK500295"
+  },
+  {
+    "symbol": "DIVISLAB",
+    "fincode": 132488,
+    "bseScriptCode": "532488",
+    "nseScriptCode": "DIVISLAB",
+    "growwCompanyId": "GSTK532488"
+  },
+  {
+    "symbol": "HYUNDAI",
+    "fincode": 208361,
+    "bseScriptCode": "544274",
+    "nseScriptCode": "HYUNDAI",
+    "growwCompanyId": "GSTK544274"
+  },
+  {
+    "symbol": "ADANIGREEN",
+    "fincode": 289554,
+    "bseScriptCode": "541450",
+    "nseScriptCode": "ADANIGREEN",
+    "growwCompanyId": "GSTK541450"
+  },
+  {
+    "symbol": "VBL",
+    "fincode": 209550,
+    "bseScriptCode": "540180",
+    "nseScriptCode": "VBL",
+    "growwCompanyId": "GSTK540180"
+  },
+  {
+    "symbol": "HDFCLIFE",
+    "fincode": 217389,
+    "bseScriptCode": "540777",
+    "nseScriptCode": "HDFCLIFE",
+    "growwCompanyId": "GSTK540777"
+  },
+  {
+    "symbol": "BAJAJHLDNG",
+    "fincode": 100490,
+    "bseScriptCode": "500490",
+    "nseScriptCode": "BAJAJHLDNG",
+    "growwCompanyId": "GSTK500490"
+  },
+  {
+    "symbol": "HINDALCO",
+    "fincode": 100440,
+    "bseScriptCode": "500440",
+    "nseScriptCode": "HINDALCO",
+    "growwCompanyId": "GSTK500440"
+  },
+  {
+    "symbol": "LTIM",
+    "fincode": 216156,
+    "bseScriptCode": "540005",
+    "nseScriptCode": "LTIM",
+    "growwCompanyId": "GSTK540005"
+  },
+  {
+    "symbol": "AMBUJACEM",
+    "fincode": 100425,
+    "bseScriptCode": "500425",
+    "nseScriptCode": "AMBUJACEM",
+    "growwCompanyId": "GSTK500425"
+  },
+  {
+    "symbol": "EICHERMOT",
+    "fincode": 105200,
+    "bseScriptCode": "505200",
+    "nseScriptCode": "EICHERMOT",
+    "growwCompanyId": "GSTK505200"
+  },
+  {
+    "symbol": "BPCL",
+    "fincode": 100547,
+    "bseScriptCode": "500547",
+    "nseScriptCode": "BPCL",
+    "growwCompanyId": "GSTK500547"
+  },
+  {
+    "symbol": "PIDILITIND",
+    "fincode": 100331,
+    "bseScriptCode": "500331",
+    "nseScriptCode": "PIDILITIND",
+    "growwCompanyId": "GSTK500331"
+  },
+  {
+    "symbol": "TECHM",
+    "fincode": 132755,
+    "bseScriptCode": "532755",
+    "nseScriptCode": "TECHM",
+    "growwCompanyId": "GSTK532755"
+  },
+  {
+    "symbol": "PFC",
+    "fincode": 132810,
+    "bseScriptCode": "532810",
+    "nseScriptCode": "PFC",
+    "growwCompanyId": "GSTK532810"
+  },
+  {
+    "symbol": "BRITANNIA",
+    "fincode": 100825,
+    "bseScriptCode": "500825",
+    "nseScriptCode": "BRITANNIA",
+    "growwCompanyId": "GSTK500825"
+  },
+  {
+    "symbol": "SOLARINDS",
+    "fincode": 132725,
+    "bseScriptCode": "532725",
+    "nseScriptCode": "SOLARINDS",
+    "growwCompanyId": "GSTK532725"
+  },
+  {
+    "symbol": "TVSMOTOR",
+    "fincode": 132343,
+    "bseScriptCode": "532343",
+    "nseScriptCode": "TVSMOTOR",
+    "growwCompanyId": "GSTK532343"
+  },
+  {
+    "symbol": "LODHA",
+    "fincode": 219442,
+    "bseScriptCode": "543287",
+    "nseScriptCode": "LODHA",
+    "growwCompanyId": "GSTK543287"
+  },
+  {
+    "symbol": "CHOLAFIN",
+    "fincode": 111243,
+    "bseScriptCode": "511243",
+    "nseScriptCode": "CHOLAFIN",
+    "growwCompanyId": "GSTK511243"
+  },
+  {
+    "symbol": "TATAPOWER",
+    "fincode": 100400,
+    "bseScriptCode": "500400",
+    "nseScriptCode": "TATAPOWER",
+    "growwCompanyId": "GSTK500400"
+  },
+  {
+    "symbol": "BANKBARODA",
+    "fincode": 132134,
+    "bseScriptCode": "532134",
+    "nseScriptCode": "BANKBARODA",
+    "growwCompanyId": "GSTK532134"
+  },
+  {
+    "symbol": "PNB",
+    "fincode": 132461,
+    "bseScriptCode": "532461",
+    "nseScriptCode": "PNB",
+    "growwCompanyId": "GSTK532461"
+  },
+  {
+    "symbol": "GODREJCP",
+    "fincode": 132424,
+    "bseScriptCode": "532424",
+    "nseScriptCode": "GODREJCP",
+    "growwCompanyId": "GSTK532424"
+  },
+  {
+    "symbol": "GAIL",
+    "fincode": 132155,
+    "bseScriptCode": "532155",
+    "nseScriptCode": "GAIL",
+    "growwCompanyId": "GSTK532155"
+  },
+  {
+    "symbol": "MAXHEALTH",
+    "fincode": 218071,
+    "bseScriptCode": "543220",
+    "nseScriptCode": "MAXHEALTH",
+    "growwCompanyId": "GSTK543220"
+  },
+  {
+    "symbol": "ABB",
+    "fincode": 100002,
+    "bseScriptCode": "500002",
+    "nseScriptCode": "ABB",
+    "growwCompanyId": "GSTK500002"
+  },
+  {
+    "symbol": "CIPLA",
+    "fincode": 100087,
+    "bseScriptCode": "500087",
+    "nseScriptCode": "CIPLA",
+    "growwCompanyId": "GSTK500087"
+  },
+  {
+    "symbol": "MAZDOCK",
+    "fincode": 219700,
+    "bseScriptCode": "543237",
+    "nseScriptCode": "MAZDOCK",
+    "growwCompanyId": "GSTK543237"
+  },
+  {
+    "symbol": "SHRIRAMFIN",
+    "fincode": 111218,
+    "bseScriptCode": "511218",
+    "nseScriptCode": "SHRIRAMFIN",
+    "growwCompanyId": "GSTK511218"
+  },
+  {
+    "symbol": "TORNTPHARM",
+    "fincode": 100420,
+    "bseScriptCode": "500420",
+    "nseScriptCode": "TORNTPHARM",
+    "growwCompanyId": "GSTK500420"
+  },
+  {
+    "symbol": "HDFCAMC",
+    "fincode": 208280,
+    "bseScriptCode": "541729",
+    "nseScriptCode": "HDFCAMC",
+    "growwCompanyId": "GSTK541729"
+  },
+  {
+    "symbol": "SHREECEM",
+    "fincode": 100387,
+    "bseScriptCode": "500387",
+    "nseScriptCode": "SHREECEM",
+    "growwCompanyId": "GSTK500387"
+  },
+  {
+    "symbol": "BOSCHLTD",
+    "fincode": 100530,
+    "bseScriptCode": "500530",
+    "nseScriptCode": "BOSCHLTD",
+    "growwCompanyId": "GSTK500530"
+  },
+  {
+    "symbol": "SIEMENS",
+    "fincode": 100550,
+    "bseScriptCode": "500550",
+    "nseScriptCode": "SIEMENS",
+    "growwCompanyId": "GSTK500550"
+  },
+  {
+    "symbol": "UNIONBANK",
+    "fincode": 132477,
+    "bseScriptCode": "532477",
+    "nseScriptCode": "UNIONBANK",
+    "growwCompanyId": "GSTK532477"
+  },
+  {
+    "symbol": "MOTHERSON",
+    "fincode": 117334,
+    "bseScriptCode": "517334",
+    "nseScriptCode": "MOTHERSON",
+    "growwCompanyId": "GSTK517334"
+  },
+  {
+    "symbol": "INDUSTOWER",
+    "fincode": 209967,
+    "bseScriptCode": "534816",
+    "nseScriptCode": "INDUSTOWER",
+    "growwCompanyId": "GSTK534816"
+  },
+  {
+    "symbol": "INDHOTEL",
+    "fincode": 100850,
+    "bseScriptCode": "500850",
+    "nseScriptCode": "INDHOTEL",
+    "growwCompanyId": "GSTK500850"
+  },
+  {
+    "symbol": "CGPOWER",
+    "fincode": 100093,
+    "bseScriptCode": "500093",
+    "nseScriptCode": "CGPOWER",
+    "growwCompanyId": "GSTK500093"
+  },
+  {
+    "symbol": "ENRIN",
+    "fincode": 320028,
+    "bseScriptCode": "544390",
+    "nseScriptCode": "ENRIN",
+    "growwCompanyId": "GSTK544390"
+  },
+  {
+    "symbol": "MUTHOOTFIN",
+    "fincode": 221790,
+    "bseScriptCode": "533398",
+    "nseScriptCode": "MUTHOOTFIN",
+    "growwCompanyId": "GSTK533398"
+  },
+  {
+    "symbol": "MANKIND",
+    "fincode": 211840,
+    "bseScriptCode": "543904",
+    "nseScriptCode": "MANKIND",
+    "growwCompanyId": "GSTK543904"
+  },
+  {
+    "symbol": "RECLTD",
+    "fincode": 200055,
+    "bseScriptCode": "532955",
+    "nseScriptCode": "RECLTD",
+    "growwCompanyId": "GSTK532955"
+  },
+  {
+    "symbol": "TATACONSUM",
+    "fincode": 100800,
+    "bseScriptCode": "500800",
+    "nseScriptCode": "TATACONSUM",
+    "growwCompanyId": "GSTK500800"
+  },
+  {
+    "symbol": "APOLLOHOSP",
+    "fincode": 108869,
+    "bseScriptCode": "508869",
+    "nseScriptCode": "APOLLOHOSP",
+    "growwCompanyId": "GSTK508869"
+  },
+  {
+    "symbol": "DRREDDY",
+    "fincode": 100124,
+    "bseScriptCode": "500124",
+    "nseScriptCode": "DRREDDY",
+    "growwCompanyId": "GSTK500124"
+  },
+  {
+    "symbol": "SWIGGY",
+    "fincode": 293862,
+    "bseScriptCode": "544285",
+    "nseScriptCode": "SWIGGY",
+    "growwCompanyId": "GSTK544285"
+  },
+  {
+    "symbol": "IDBI",
+    "fincode": 100116,
+    "bseScriptCode": "500116",
+    "nseScriptCode": "IDBI",
+    "growwCompanyId": "GSTK500116"
+  },
+  {
+    "symbol": "CANBK",
+    "fincode": 132483,
+    "bseScriptCode": "532483",
+    "nseScriptCode": "CANBK",
+    "growwCompanyId": "GSTK532483"
+  },
+  {
+    "symbol": "POLYCAB",
+    "fincode": 211337,
+    "bseScriptCode": "542652",
+    "nseScriptCode": "POLYCAB",
+    "growwCompanyId": "GSTK542652"
+  },
+  {
+    "symbol": "ADANIENSOL",
+    "fincode": 271875,
+    "bseScriptCode": "539254",
+    "nseScriptCode": "ADANIENSOL",
+    "growwCompanyId": "GSTK539254"
+  }
+]

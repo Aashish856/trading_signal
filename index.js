@@ -29,8 +29,6 @@ function getNextRunTime(now) {
       return marketOpen;
     }
   }
-
-  // Case 3: Just run after 3 hours
   return in3Hours;
 }
 
@@ -41,7 +39,7 @@ async function runStrategyLoop() {
   console.log(`⏱ Running at ${now.toLocaleTimeString()} | gap = ${gapInMinutes} min`);
 
   try {
-    await analyzeNewsStrategy(gapInMinutes);
+    analyzeNewsStrategy(gapInMinutes);
   } catch (err) {
     console.error('❌ analyzeNewsStrategy failed:', err);
   }

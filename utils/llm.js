@@ -20,16 +20,22 @@ function extractJSONBlock(text) {
 
 async function analyzeNewsWithContext(content) {
   const systemPrompt = `
-You are an expert financial analyst. Your job is to assess a company's recent news, financial fundamentals, and peer comparison, and provide a concise analysis for traders and investors.
-
-Follow this output format as JSON:
+You are a top-tier financial analyst and investment advisor.
+Your task is to critically analyze a company's **recent news** in the context of its **financial fundamentals** and **peer performance** to provide clear, actionable insights for traders and investors.
+Focus on how the **news impacts the company's outlook**, and support your opinion with financial data **only as necessary** to strengthen or challenge the news narrative.
+Structure your output as a JSON object like this:
 {
-  "insights": ["key observation 1", "key observation 2", "..."],
+  "insights": ["Key observation 1", "Key observation 2", "..."],
   "sentiment": "positive | negative | neutral",
   "recommendation": "strong_buy | buy | hold | sell | strong_sell"
 }
+ Guidelines:
+- Begin your analysis by interpreting the recent news — what happened, why it matters, and how it might affect the stock.
+- Use fundamentals and peer comparison only to **support or contradict** the impact of the news — not to summarize them.
+- Be concise, insightful, and avoid generic statements.
+- Favor interpretation and judgment over repeating raw numbers.
+Only return the JSON output. Do not include any additional explanation.
 
-Be specific and data-driven. Use financial ratios (PE, PB, ROE, ROCE, etc.), net profits, and peer benchmarks to support your analysis.
 `;
 
   const userPrompt = `
@@ -54,15 +60,15 @@ ${content.recent_news}
 - Net Sales Growth: ${content.fundamental.net_sales}%
 
 **Peer Comparison**:
-${content.fundamentals_peers.map((peer, i) => {
-    return `Peer ${i + 1} - ${peer.COMPNAME} (${peer.SYMBOL})
+${content.fundamentals_peers.slice(0, 2).map((peer, i) => {
+  return `Peer ${i + 1} - ${peer.COMPNAME} (${peer.SYMBOL})
   - PE: ${peer.PE}
   - PB: ${peer.PB}
   - ROE: ${peer.ROE}%
   - ROCE: ${peer.ROCE}%
   - EV/EBITDA: ${peer.EV_EBITDA}
   - Net Sales: ${peer.net_sales}%`;
-  }).join('\n\n')}
+}).join('\n\n')}
 `;
   const formattedPrompt = `
 <|begin_of_text|><|start_header_id|>system<|end_header_id|>

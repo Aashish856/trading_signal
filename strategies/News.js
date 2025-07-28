@@ -31,6 +31,7 @@ async function analyzeNewsStrategy(gap) {
         if (!fincodeValue || !stockCodeGrowwValue) {
             continue;
         }
+        console.log(`🔍 Analyzing news for ${stockSymbol}...`);
         try {
             const finologyNewsList = await getFinologyNewsList(fincodeValue);
             const growwNews = await getGrowwNews(stockCodeGrowwValue);

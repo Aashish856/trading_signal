@@ -118,6 +118,7 @@ ${userPrompt.trim()}
         <i>Generated at ${new Date().toLocaleString('en-IN', { timeZone: 'Asia/Kolkata' })}</i>
             `.trim();
     await sendTelegramMessage(message);
+    console.log('✅ Telegram message sent successfully for', content.fundamental.SYMBOL);
 }
   } catch (error) {
     console.error('❌ Bedrock Error:', error);

@@ -43,6 +43,7 @@ async function analyzeNewsStrategy(gap) {
                 // console.warn(`⚠️ No recent news found for ${stockSymbol}`);
                 continue;
             }
+            console.log("Recent Groww News for", stockSymbol, ":", recentGrowwNews);
             const recentFinologyNews = finologyNewsList?.filter(item => {
                 const dateObj = parseFinologyNewsDate(item.Newsdate, item.NewsTime);
                 return isPublishedInLastMin(dateObj);

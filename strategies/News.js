@@ -21,8 +21,7 @@ async function analyzeNewsStrategy(gap) {
     inLast = gap;
     var index = 0;
     for (const stock of data) {
-        console.log(stock)
-        if(index >= 50){
+        if(index >= 100){
             break
         }
         index++;
@@ -32,7 +31,6 @@ async function analyzeNewsStrategy(gap) {
         if (!fincodeValue || !stockCodeGrowwValue) {
             continue;
         }
-        console.log(`🔍 Analyzing news for ${stockSymbol}...`);
         try {
             const finologyNewsList = await getFinologyNewsList(fincodeValue);
             const growwNews = await getGrowwNews(stockCodeGrowwValue);

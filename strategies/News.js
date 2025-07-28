@@ -21,6 +21,7 @@ async function analyzeNewsStrategy(gap) {
     inLast = gap;
     var index = 0;
     for (const stock of data) {
+        console.log(stock)
         if(index >= 50){
             break
         }
